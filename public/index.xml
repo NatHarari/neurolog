@@ -6,7 +6,17 @@
     <description>Recent content on a neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0200</lastBuildDate><atom:link href="https://www.neurolog.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Apr 2023 18:43:27 +0200</lastBuildDate><atom:link href="https://www.neurolog.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fixed the Blog Again</title>
+      <link>https://www.neurolog.dev/posts/fixed-the-blog-again/</link>
+      <pubDate>Tue, 18 Apr 2023 18:43:27 +0200</pubDate>
+      
+      <guid>https://www.neurolog.dev/posts/fixed-the-blog-again/</guid>
+      <description>I fixed the blog again I had this weird setup with github using two repos - one public and one private. I still don&amp;rsquo;t understand how I set it up this way but I was following instructions from a tutorial which had it set up like that.
+When I tried to remove the setup, it of course borked everything up. I gave up for a bit in frustration because it wasn&amp;rsquo;t a priority for me and I knew I&amp;rsquo;d have to sit down and re-up everything and set everything up from scratch to a new repo.</description>
+    </item>
+    
     <item>
       <title>New Mastodon - Qoto.org</title>
       <link>https://www.neurolog.dev/posts/new-mastodon-qoto/</link>

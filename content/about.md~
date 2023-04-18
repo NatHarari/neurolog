@@ -1,0 +1,13 @@
+---
+title: "About"
+date: 2022-07-03T12:00:00+02:00
+draft: false
+layout: staticpage
+author: "Nathaniel Harari"
+cover:
+ image: img/youarehere.jpg
+ alt: 'This is an alt tag for the about picture. You're not missing much.'
+ caption: 'This is a caption for the image.'
+tags: ["about","info"]
+categories: ["pages"]
+---

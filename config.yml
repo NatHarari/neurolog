@@ -1,0 +1,60 @@
+baseURL: "https://www.neurolog.dev/"
+languageCode: en-us
+title: a neuro[log]
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "a neuro[log] of me."
+#    Content: Articles below.
+  socialIcons:
+    - name: facebook
+      url: "https://www.facebook.com/NatHarari"
+    - name: instagram
+      url: "https://www.instagram.com/natharari/"
+#    - name: twitter
+#      url: "https://www.twitter.com/NatHarari"
+    - name: github
+      url: "https://www.github.com/NatHarari"
+    - name: mastodon
+      url: "https://qoto.org/@natharari"
+    - name: mastodon
+      url: "https://counter.social/@natharari"
+    - name: email
+      url: "mailto:inert.fingers-0m@icloud.com"
+    - name: rss
+      url: "https://www.neurolog.dev/index.xml"
+
+
+  cover:
+    linkFullImages: true
+  ShowBreadCrumbs: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  comments: true
+
+menus:
+  main:
+  - identifier: archives
+    name: log
+    url: /archives/
+    weight: 10
+  - identifier: categories
+    name: categories
+    url: /Categories/
+    weight: 20
+  - identifier: tags
+    name: tags
+    url: /Tags/
+    weight: 30
+  - identifier: about
+    name: about
+    url: /about/
+    weight: 40
+  - identifier: emacs
+    name: emacs
+    url: "https://www.gnu.org/software/emacs/download.html"
+    weight: 50
+
+disqusShortname: neurolog

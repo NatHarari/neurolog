@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head>
+	<meta name="generator" content="Hugo 0.111.3"><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>neuro[log]</title>
+
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="canonical" href="https://www.neurolog.dev/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d7fb4cbf980fe688a21621b06a795933c4e6bb2d4070ec940667af1715d84af2.css" integrity="sha256-1/tMv5gP5oiiFiGwanlZM8Tmuy1AcOyUBmevFxXYSvI=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://www.neurolog.dev/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.neurolog.dev/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.neurolog.dev/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://www.neurolog.dev/apple-touch-icon.png">
+<link rel="mask-icon" href="https://www.neurolog.dev/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" type="application/rss+xml" href="https://www.neurolog.dev/index.xml">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --hljs-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
+</noscript><meta property="og:title" content="neuro[log]" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.neurolog.dev/" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="neuro[log]"/>
+<meta name="twitter:description" content=""/>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "neuro[log]",
+  "url": "https://www.neurolog.dev/",
+  "description": "",
+  "thumbnailUrl": "https://www.neurolog.dev/favicon.ico",
+  "sameAs": [
+      "https://www.facebook.com/NatHarari", "https://www.instagram.com/natharari/", "https://www.github.com/NatHarari", "https://qoto.org/@natharari", "https://counter.social/@natharari", "mailto:inert.fingers-0m@icloud.com", "https://www.neurolog.dev/index.xml"
+  ]
+}
+</script>
+</head>
+
+<body class="list" id="top">
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://www.neurolog.dev/" accesskey="h" title="neuro[log] (Alt + H)">neuro[log]</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://www.neurolog.dev/archives/" title="log">
+                    <span>log</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.neurolog.dev/categories/" title="categories">
+                    <span>categories</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.neurolog.dev/tags/" title="tags">
+                    <span>tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.neurolog.dev/about/" title="about">
+                    <span>about</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.gnu.org/software/emacs/download.html" title="emacs">
+                    <span>emacs</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main"> 
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>a neuro[log] of me.</h1>
+    </header>
+    <div class="entry-content">
+        
+    </div>
+    <footer class="entry-footer">
+        <div class="social-icons">
+    <a href="https://www.facebook.com/NatHarari" target="_blank" rel="noopener noreferrer me" title="Facebook">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
+</svg>
+    </a>
+    <a href="https://www.instagram.com/natharari/" target="_blank" rel="noopener noreferrer me" title="Instagram">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+    <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+    <line x1="17.5" y1="6.5" x2="17.5" y2="6.5"></line>
+</svg>
+    </a>
+    <a href="https://www.github.com/NatHarari" target="_blank" rel="noopener noreferrer me" title="Github">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path
+        d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22">
+    </path>
+</svg>
+    </a>
+    <a href="https://qoto.org/@natharari" target="_blank" rel="noopener noreferrer me" title="Mastodon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path
+        d="M21.58 13.913c-.29 1.469-2.592 3.121-5.238 3.396-1.379.184-2.737.368-4.185.276-2.368-.092-4.237-.551-4.237-.551 0 .184.014.459.043.643.308 2.294 2.317 2.478 4.22 2.57 1.922 0 3.633-.46 3.633-.46l.079 1.653s-1.344.734-3.738.918c-1.32.091-2.96-.092-4.869-.551-4.14-1.102-4.853-5.507-4.961-10.005-.034-1.285-.013-2.57-.013-3.58 0-4.589 3-5.966 3-5.966 1.513-.734 4.11-1.01 6.808-1.01h.067c2.699 0 5.296.276 6.81 1.01 0 0 3 1.377 3 5.967 0 0 .037 3.304-.419 5.69"
+        stroke="currentColor" />
+    <path
+        d="M17.832 8.633v5h-1.978V8.78c0-1.023-.43-1.542-1.29-1.542-.95 0-1.427.616-1.427 1.834v2.655H11.17V9.072c0-1.218-.476-1.834-1.427-1.834-.86 0-1.29.52-1.29 1.542v4.852H6.475V8.633c0-1.022.26-1.834.782-2.434.538-.6 1.243-.909 2.118-.909 1.012 0 1.779.39 2.286 1.169l.492.827.493-.827c.507-.78 1.274-1.169 2.286-1.169.875 0 1.58.308 2.118.909.522.6.782 1.412.782 2.434"
+        fill="currentColor" stroke="none" />
+</svg>
+    </a>
+    <a href="https://counter.social/@natharari" target="_blank" rel="noopener noreferrer me" title="Mastodon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path
+        d="M21.58 13.913c-.29 1.469-2.592 3.121-5.238 3.396-1.379.184-2.737.368-4.185.276-2.368-.092-4.237-.551-4.237-.551 0 .184.014.459.043.643.308 2.294 2.317 2.478 4.22 2.57 1.922 0 3.633-.46 3.633-.46l.079 1.653s-1.344.734-3.738.918c-1.32.091-2.96-.092-4.869-.551-4.14-1.102-4.853-5.507-4.961-10.005-.034-1.285-.013-2.57-.013-3.58 0-4.589 3-5.966 3-5.966 1.513-.734 4.11-1.01 6.808-1.01h.067c2.699 0 5.296.276 6.81 1.01 0 0 3 1.377 3 5.967 0 0 .037 3.304-.419 5.69"
+        stroke="currentColor" />
+    <path
+        d="M17.832 8.633v5h-1.978V8.78c0-1.023-.43-1.542-1.29-1.542-.95 0-1.427.616-1.427 1.834v2.655H11.17V9.072c0-1.218-.476-1.834-1.427-1.834-.86 0-1.29.52-1.29 1.542v4.852H6.475V8.633c0-1.022.26-1.834.782-2.434.538-.6 1.243-.909 2.118-.909 1.012 0 1.779.39 2.286 1.169l.492.827.493-.827c.507-.78 1.274-1.169 2.286-1.169.875 0 1.58.308 2.118.909.522.6.782 1.412.782 2.434"
+        fill="currentColor" stroke="none" />
+</svg>
+    </a>
+    <a href="mailto:inert.fingers-0m@icloud.com" target="_blank" rel="noopener noreferrer me" title="Email">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 21" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+    <polyline points="22,6 12,13 2,6"></polyline>
+</svg>
+    </a>
+    <a href="https://www.neurolog.dev/index.xml" target="_blank" rel="noopener noreferrer me" title="Rss">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 11a9 9 0 0 1 9 9" />
+    <path d="M4 4a16 16 0 0 1 16 16" />
+    <circle cx="5" cy="19" r="1" />
+</svg>
+    </a>
+</div>
+
+    </footer>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>New Mastodon - Qoto.org
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>New Mastodon I migrated from the Mastodon server emacs.ch to qoto.org.
+I still love emacs.ch but qoto has some more benefits, such as a 65,535 char post limit and a few other things. That’s huge. That’s enormous, in fact. It’s also a STEM-based instance, so there’s still some interesting things going on. So my new Mastodon is @natharari@qoto.org.
+Also: I really ought to update this blog more often. I don’t know why I don’t....</p>
+  </div>
+  <footer class="entry-footer"><span title='2023-01-26 00:00:00 +0200 +0200'>January 26, 2023</span>&nbsp;·&nbsp;Nathaniel Harari</footer>
+  <a class="entry-link" aria-label="post link to New Mastodon - Qoto.org" href="https://www.neurolog.dev/posts/new-mastodon-qoto/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Computer Literacy
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Computer Literacy I’m going to say something completely impolitic, but I don’t really care at this point about appearances:
+I just have the feeling that most people are too stupid to actually figure out how easy #Mastodon is to use because of:
+Choice and Unfamiliarity I remember when the internet was in its heyday (I was on it back in 1989 actually - but that’s another story) and we had such high hopes for humanity learning, growing, and communicating together....</p>
+  </div>
+  <footer class="entry-footer"><span title='2023-01-19 00:00:00 +0200 +0200'>January 19, 2023</span>&nbsp;·&nbsp;Nathaniel Harari</footer>
+  <a class="entry-link" aria-label="post link to Computer Literacy" href="https://www.neurolog.dev/posts/computer-literacy/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Mastodon
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Mastodon I’m on Mastodon (links above) at Counter Social, and more and more at @natharari@emacs.ch. I’m going to delete my Twitter soon or deactivate it if possible, as I have no confidence in that medium whatsoever. More and more people are leaving and I’m happy to say that I’m one of them. Even though I didn’t use the site for the last few years, I just want no part of that disaster area....</p>
+  </div>
+  <footer class="entry-footer"><span title='2022-11-27 00:00:00 +0200 +0200'>November 27, 2022</span>&nbsp;·&nbsp;Nathaniel Harari</footer>
+  <a class="entry-link" aria-label="post link to Mastodon" href="https://www.neurolog.dev/posts/mastodon/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Warp.dev
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>warp terminal I’ve recently come across warp - a new terminal application currently for Mac only and in beta. Apparently they are working on a Linux and Windows release as well.
+It’s pretty fantastic. It’s incredibly fast and very modern, written in Rust, and can do things no other terminal can do that I’ve ever seen.
+As a long time user of iTerm, it includes some functions which iTerm currently does not have....</p>
+  </div>
+  <footer class="entry-footer"><span title='2022-11-11 00:00:00 +0200 +0200'>November 11, 2022</span>&nbsp;·&nbsp;Nathaniel Harari</footer>
+  <a class="entry-link" aria-label="post link to Warp.dev" href="https://www.neurolog.dev/posts/warp-dev/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>What were the 70s...
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>“What were the 70s and early 80s really like?” They were dark, very contrasty, and grainy with lots of muted colours.</p>
+  </div>
+  <footer class="entry-footer"><span title='2022-09-23 07:40:00 +0200 CEST'>September 23, 2022</span>&nbsp;·&nbsp;Nathaniel Harari</footer>
+  <a class="entry-link" aria-label="post link to What were the 70s..." href="https://www.neurolog.dev/posts/what-were-the-70s-like/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="https://www.neurolog.dev/img/nintendoEggGame.jpg" alt="Nintendo Egg Game">
+</figure>
+  <header class="entry-header">
+    <h2>Nintendo Egg Game
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>A blast from the past I was cleaning out some more things today and I found this gem. It’s from the early 80s and I must have spent countless hours with my brother and even my parents playing this little game.
+I looked online and they actually sell for quite a bit of money so I may actually end up selling it. I honestly have no intention of ever playing it again, but it was nice to see it again and yes, it does work....</p>
+  </div>
+  <footer class="entry-footer"><span title='2022-09-17 09:00:00 +0200 CEST'>September 17, 2022</span>&nbsp;·&nbsp;Nathaniel Harari</footer>
+  <a class="entry-link" aria-label="post link to Nintendo Egg Game" href="https://www.neurolog.dev/posts/egg-game/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="https://www.neurolog.dev/img/OldMacBookPro.jpg" alt="Old 2011 MacBook Pro">
+</figure>
+  <header class="entry-header">
+    <h2>Goodbye old MacBook Pro
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Goodbye Old 2011 MacBook Pro. Yes, another “Goodbye” post from me - in so short a time. But this one is a must. I got this wonderful machine back in December 2011 and it’s been with me in Israel, Japan, the UK, and France. It was a workhorse for a very long time. But two and a half years ago I stopped using it in favour of the newer MacBook Pro I had for two years before getting my current one....</p>
+  </div>
+  <footer class="entry-footer"><span title='2022-08-31 08:00:00 +0200 CEST'>August 31, 2022</span>&nbsp;·&nbsp;Nathaniel Harari</footer>
+  <a class="entry-link" aria-label="post link to Goodbye old MacBook Pro" href="https://www.neurolog.dev/posts/goodbye-old-macbook-pro/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="https://www.neurolog.dev/img/PolarBearSleeping.jpg" alt="Happy Sleeping Polar Bear">
+</figure>
+  <header class="entry-header">
+    <h2>Goodbye Morning Bears
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Goodbye morning bears. I’ve been posting a picture of a polar bear every single morning on Facebook since something like 2014 or 2015, without fail. And, as much as I love polar bears, I think it’s time to say goodbye to this morning tradition.
+I started it because I wanted to see something happy first thing in the morning before anything else. But it has long since worn out that usefulness for me....</p>
+  </div>
+  <footer class="entry-footer"><span title='2022-08-25 09:00:00 +0200 CEST'>August 25, 2022</span>&nbsp;·&nbsp;Nathaniel Harari</footer>
+  <a class="entry-link" aria-label="post link to Goodbye Morning Bears" href="https://www.neurolog.dev/posts/goodbye-morning-bears/"></a>
+</article>
+
+<article class="post-entry"> 
+<figure class="entry-cover"><img loading="lazy" src="https://www.neurolog.dev/img/kilchoman.jpg" alt="Glass of divine single malt whisky.">
+</figure>
+  <header class="entry-header">
+    <h2>Ahhh...Lunch
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Ahhh…Lunch. </p>
+  </div>
+  <footer class="entry-footer"><span title='2022-08-21 09:00:00 +0200 CEST'>August 21, 2022</span>&nbsp;·&nbsp;Nathaniel Harari</footer>
+  <a class="entry-link" aria-label="post link to Ahhh...Lunch" href="https://www.neurolog.dev/posts/ahhh-lunch/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2>Added Comments
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>I’ve added comments. In the extremely unlikely occurrence that anyone would ever comment on my site, I’ve added comments from Disqus. It was one of those little todo tasks on one of my org-mode lists I just had to get done. So there. I did it.</p>
+  </div>
+  <footer class="entry-footer"><span title='2022-08-20 09:00:00 +0200 CEST'>August 20, 2022</span>&nbsp;·&nbsp;Nathaniel Harari</footer>
+  <a class="entry-link" aria-label="post link to Added Comments" href="https://www.neurolog.dev/posts/added-comments/"></a>
+</article>
+<footer class="page-footer">
+  <nav class="pagination">
+    <a class="next" href="https://www.neurolog.dev/page/2/">Next »</a>
+  </nav>
+</footer>
+    </main>
+    
+<footer class="footer">
+    <span>&copy; 2023 <a href="https://www.neurolog.dev/">neuro[log]</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+</body>
+
+</html>

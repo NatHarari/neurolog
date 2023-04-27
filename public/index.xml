@@ -6,7 +6,26 @@
     <description>Recent content on a neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Apr 2023 18:43:27 +0200</lastBuildDate><atom:link href="https://www.neurolog.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0200</lastBuildDate><atom:link href="https://www.neurolog.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT Dungeons &amp; Dragons</title>
+      <link>https://www.neurolog.dev/posts/chatgpt-dnd/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.neurolog.dev/posts/chatgpt-dnd/</guid>
+      <description>ChatGPT Dungeons &amp;amp; Dragons As a fun little experiment last night, I had ChatGPT write out a little Dungeons and Dragons adventure. From what I learned: You can get ChatGPT to be really specific and detailed. There are a few tricks which my repeated attempts have taught me:
+You have to be really specific and detailed in your query. You can make it a very long sentence. I&amp;rsquo;ll post mine below so that you can see.</description>
+    </item>
+    
+    <item>
+      <title>Roast Beef</title>
+      <link>https://www.neurolog.dev/posts/roast-beef/</link>
+      <pubDate>Thu, 20 Apr 2023 09:00:00 +0200</pubDate>
+      
+      <guid>https://www.neurolog.dev/posts/roast-beef/</guid>
+      <description>Beef It&amp;rsquo;s what was for dinner.</description>
+    </item>
+    
     <item>
       <title>Fixed the Blog Again</title>
       <link>https://www.neurolog.dev/posts/fixed-the-blog-again/</link>

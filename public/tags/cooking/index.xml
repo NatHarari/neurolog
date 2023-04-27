@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cooking on a neuro[log]</title>
+    <link>https://www.neurolog.dev/tags/cooking/</link>
+    <description>Recent content in cooking on a neuro[log]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Apr 2023 09:00:00 +0200</lastBuildDate><atom:link href="https://www.neurolog.dev/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roast Beef</title>
+      <link>https://www.neurolog.dev/posts/roast-beef/</link>
+      <pubDate>Thu, 20 Apr 2023 09:00:00 +0200</pubDate>
+      
+      <guid>https://www.neurolog.dev/posts/roast-beef/</guid>
+      <description>Beef It&amp;rsquo;s what was for dinner.</description>
+    </item>
+    
+  </channel>
+</rss>

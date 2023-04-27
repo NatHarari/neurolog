@@ -6,22 +6,31 @@
     <description>Recent content in Categories on a neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Apr 2023 09:00:00 +0200</lastBuildDate><atom:link href="https://www.neurolog.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Apr 2023 07:00:00 +0200</lastBuildDate><atom:link href="https://www.neurolog.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>misc</title>
-      <link>https://www.neurolog.dev/categories/misc/</link>
-      <pubDate>Thu, 20 Apr 2023 09:00:00 +0200</pubDate>
+      <title>computers</title>
+      <link>https://www.neurolog.dev/categories/computers/</link>
+      <pubDate>Thu, 27 Apr 2023 07:00:00 +0200</pubDate>
       
-      <guid>https://www.neurolog.dev/categories/misc/</guid>
+      <guid>https://www.neurolog.dev/categories/computers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tech</title>
       <link>https://www.neurolog.dev/categories/tech/</link>
-      <pubDate>Thu, 26 Jan 2023 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 27 Apr 2023 07:00:00 +0200</pubDate>
       
       <guid>https://www.neurolog.dev/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misc</title>
+      <link>https://www.neurolog.dev/categories/misc/</link>
+      <pubDate>Thu, 20 Apr 2023 09:00:00 +0200</pubDate>
+      
+      <guid>https://www.neurolog.dev/categories/misc/</guid>
       <description></description>
     </item>
     

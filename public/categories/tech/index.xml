@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Tue, 27 Feb 2024 06:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 06:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Theme</title>
+      <link>https://neurolog.dev/posts/new-theme/</link>
+      <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/posts/new-theme/</guid>
+      <description>New Theme - Blowfish # I&amp;rsquo;ve decided to change the theme to blowfish.</description>
+      
+    </item>
+    
     <item>
       <title>Org-Mode does it all</title>
       <link>https://neurolog.dev/posts/org-does-it-all/</link>

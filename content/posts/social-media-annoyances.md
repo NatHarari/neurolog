@@ -14,7 +14,7 @@ categories: ["misc","tech"]
 
 I haven't been on social media in years.
 
-Apart from the odd post once every 4-6 months (at the most), I haven't posted at all on Facebook - let alone Instagram, LinkedIn, or any other venue. But Facebook and Instagram keep bugging me for my attention. Notification after notification come up on my iPad and iPhone telling me that "Person" reacted to a  a post you haven't yet commented on. Every day, dozens of them at some times.
+Apart from the odd post once every 4-6 months (at the most), I haven't posted at all on Facebook - let alone Instagram, LinkedIn, or any other venue. But Facebook and Instagram keep bugging me for my attention. Notification after notification come up on my iPad and iPhone telling me that "Person" reacted to a post you haven't yet commented on. Every day, dozens of them at some times.
 
 Now, I know that I can turn off notifications, but I find it interesting not to. Of course, I turned off the chime for them, but I still see the pop-up reminding me that I haven't been there in a long time.
 

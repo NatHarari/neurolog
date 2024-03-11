@@ -2,78 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on neuro[log]</title>
-    <link>https://neurolog.dev/tags/tech/</link>
+    <link>http://localhost:1313/tags/tech/</link>
     <description>Recent content in Tech on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Mon, 11 Mar 2024 23:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 23:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thirty Years</title>
-      <link>https://neurolog.dev/posts/thirty-years/</link>
+      <link>http://localhost:1313/posts/thirty-years/</link>
       <pubDate>Mon, 11 Mar 2024 23:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/thirty-years/</guid>
+      <guid>http://localhost:1313/posts/thirty-years/</guid>
       <description>I just realized&amp;hellip; # It&amp;rsquo;s been thirty years since my first website which I built in 1994.</description>
       
     </item>
     
     <item>
       <title>New Theme</title>
-      <link>https://neurolog.dev/posts/new-theme/</link>
+      <link>http://localhost:1313/posts/new-theme/</link>
       <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/new-theme/</guid>
+      <guid>http://localhost:1313/posts/new-theme/</guid>
       <description>New Theme - Blowfish # I&amp;rsquo;ve decided to change the theme to blowfish.</description>
       
     </item>
     
     <item>
       <title>Org-Mode does it all</title>
-      <link>https://neurolog.dev/posts/org-does-it-all/</link>
+      <link>http://localhost:1313/posts/org-does-it-all/</link>
       <pubDate>Tue, 27 Feb 2024 06:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/org-does-it-all/</guid>
+      <guid>http://localhost:1313/posts/org-does-it-all/</guid>
       <description>Org really does it all # Someone on Hacker News posted a link yesterday to a productivity directory of apps for, of all things, productivity.</description>
       
     </item>
     
     <item>
       <title>Social Media Annoyances</title>
-      <link>https://neurolog.dev/posts/social-media-annoyances/</link>
+      <link>http://localhost:1313/posts/social-media-annoyances/</link>
       <pubDate>Tue, 20 Feb 2024 06:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/social-media-annoyances/</guid>
+      <guid>http://localhost:1313/posts/social-media-annoyances/</guid>
       <description>Facebook is trying to get my attention # I haven&amp;rsquo;t been on social media in years.</description>
       
     </item>
     
     <item>
       <title>Old People and Phones</title>
-      <link>https://neurolog.dev/posts/old-people-calls/</link>
+      <link>http://localhost:1313/posts/old-people-calls/</link>
       <pubDate>Mon, 22 Jan 2024 06:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/old-people-calls/</guid>
+      <guid>http://localhost:1313/posts/old-people-calls/</guid>
       <description>Old people and phones # Somebody really needs to start a global program to teach old people that the one thing they should never do is hold their telephone up to their ear when a person video calls them.</description>
       
     </item>
     
     <item>
       <title>New Mastodon - Qoto.org</title>
-      <link>https://neurolog.dev/posts/new-mastodon-qoto/</link>
+      <link>http://localhost:1313/posts/new-mastodon-qoto/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/new-mastodon-qoto/</guid>
+      <guid>http://localhost:1313/posts/new-mastodon-qoto/</guid>
       <description>New Mastodon # I migrated from the Mastodon server emacs.</description>
       
     </item>
     
     <item>
       <title>Computer Literacy</title>
-      <link>https://neurolog.dev/posts/computer-literacy/</link>
+      <link>http://localhost:1313/posts/computer-literacy/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/computer-literacy/</guid>
+      <guid>http://localhost:1313/posts/computer-literacy/</guid>
       <description>Computer Literacy # I&amp;rsquo;m going to say something completely impolitic, but I don&amp;rsquo;t really care at this point about appearances:</description>
       
     </item>

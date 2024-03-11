@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Mon, 11 Mar 2024 06:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 23:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memories</title>
+      <link>https://neurolog.dev/categories/memories/</link>
+      <pubDate>Mon, 11 Mar 2024 23:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/memories/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://neurolog.dev/categories/tech/</link>
+      <pubDate>Mon, 11 Mar 2024 23:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/tech/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Hugo</title>
       <link>https://neurolog.dev/categories/hugo/</link>
@@ -19,31 +39,11 @@
     </item>
     
     <item>
-      <title>Memories</title>
-      <link>https://neurolog.dev/categories/memories/</link>
-      <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
-      
-      <guid>https://neurolog.dev/categories/memories/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Pages</title>
       <link>https://neurolog.dev/categories/pages/</link>
       <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
       
       <guid>https://neurolog.dev/categories/pages/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://neurolog.dev/categories/tech/</link>
-      <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
-      
-      <guid>https://neurolog.dev/categories/tech/</guid>
       <description></description>
       
     </item>

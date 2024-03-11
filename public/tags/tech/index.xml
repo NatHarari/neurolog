@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Mon, 11 Mar 2024 06:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 23:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thirty Years</title>
+      <link>https://neurolog.dev/posts/thirty-years/</link>
+      <pubDate>Mon, 11 Mar 2024 23:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/posts/thirty-years/</guid>
+      <description>I just realized&amp;hellip; # It&amp;rsquo;s been thirty years since my first website which I built in 1994.</description>
+      
+    </item>
+    
     <item>
       <title>New Theme</title>
       <link>https://neurolog.dev/posts/new-theme/</link>
@@ -15,16 +25,6 @@
       
       <guid>https://neurolog.dev/posts/new-theme/</guid>
       <description>New Theme - Blowfish # I&amp;rsquo;ve decided to change the theme to blowfish.</description>
-      
-    </item>
-    
-    <item>
-      <title>Thirty Years</title>
-      <link>https://neurolog.dev/posts/thirty-years/</link>
-      <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
-      
-      <guid>https://neurolog.dev/posts/thirty-years/</guid>
-      <description>I just realized&amp;hellip; # It&amp;rsquo;s been thirty years since my first website which I built in 1995.</description>
       
     </item>
     

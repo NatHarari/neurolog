@@ -4,6 +4,11 @@ none = "none"
 [[main]]
 name = "home"
 url = "/"
+weight = 5
+
+[[main]]
+name = "now"
+pageRef = "now"
 weight = 10
 
 [[main]]

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Whisky on neuro[log]</title>
-    <link>https://neurolog.dev/categories/whisky/</link>
+    <link>http://localhost:1313/categories/whisky/</link>
     <description>Recent content in Whisky on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Sun, 21 Aug 2022 09:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/categories/whisky/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Aug 2022 09:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/whisky/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ahhh...Lunch</title>
-      <link>https://neurolog.dev/posts/ahhh-lunch/</link>
+      <link>http://localhost:1313/posts/ahhh-lunch/</link>
       <pubDate>Sun, 21 Aug 2022 09:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/ahhh-lunch/</guid>
+      <guid>http://localhost:1313/posts/ahhh-lunch/</guid>
       <description>Ahhh&amp;hellip;Lunch.</description>
       
     </item>

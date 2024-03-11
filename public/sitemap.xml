@@ -45,6 +45,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://neurolog.dev/posts/thirty-years/</loc>
+    <lastmod>2024-03-11T06:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://neurolog.dev/posts/org-does-it-all/</loc>
     <lastmod>2024-02-27T06:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>

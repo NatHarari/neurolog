@@ -8,7 +8,8 @@ weight = 5
 
 [[main]]
 name = "now"
-pageRef = "/now/now.md"
+pageRef = "now"
+url = "/now/now.md"
 weight = 10
 
 [[main]]
@@ -18,7 +19,8 @@ weight = 20
 
 [[main]]
 name = "about"
-pageRef = "/about/about.md"
+pageRef = "about"
+url = "/about/about.md"
 weight = 30
 
 [[main]]

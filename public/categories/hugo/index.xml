@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on neuro[log]</title>
-    <link>http://localhost:1313/categories/hugo/</link>
+    <link>https://neurolog.dev/categories/hugo/</link>
     <description>Recent content in Hugo on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Mon, 11 Mar 2024 06:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 06:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Theme</title>
-      <link>http://localhost:1313/posts/new-theme/</link>
+      <link>https://neurolog.dev/posts/new-theme/</link>
       <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/new-theme/</guid>
+      <guid>https://neurolog.dev/posts/new-theme/</guid>
       <description>New Theme - Blowfish # I&amp;rsquo;ve decided to change the theme to blowfish.</description>
       
     </item>

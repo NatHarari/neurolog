@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emacs on neuro[log]</title>
-    <link>http://localhost:1313/categories/emacs/</link>
+    <link>https://neurolog.dev/categories/emacs/</link>
     <description>Recent content in Emacs on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Tue, 27 Feb 2024 06:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Feb 2024 06:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/categories/emacs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Org-Mode does it all</title>
-      <link>http://localhost:1313/posts/org-does-it-all/</link>
+      <link>https://neurolog.dev/posts/org-does-it-all/</link>
       <pubDate>Tue, 27 Feb 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/org-does-it-all/</guid>
+      <guid>https://neurolog.dev/posts/org-does-it-all/</guid>
       <description>Org really does it all # Someone on Hacker News posted a link yesterday to a productivity directory of apps for, of all things, productivity.</description>
       
     </item>

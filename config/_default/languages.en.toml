@@ -13,5 +13,5 @@ description = "A neuro[log] about me."
 
 [author]
 name = "Nathaniel Harari"
-image = "IMG_0230.jpeg"
+image = "neurolog-logo.png"
 links = [ { bluesky = "https://bsky.app/profile/natharari.bsky.social" }, { email = "inert.fingers-0m@icloud.com" }, { facebook = "https://www.facebook.com/natharari" }, { github = "https://github.com/natharari" }, { goodreads = "https://www.goodreads.com/user/show/28327884-nathaniel-harari" }, { instagram = "https://www.instagram.com/natharari/" }, { linkedin = "https://www.linkedin.com/in/nathaniel-harari/" }, { mastodon = "https://qoto.org/@natharari" } ]

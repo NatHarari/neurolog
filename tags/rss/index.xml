@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rss on a neuro[log]</title>
+    <link>https://www.neurolog.dev/tags/rss/</link>
+    <description>Recent content in Rss on a neuro[log]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jul 2022 23:30:00 +0200</lastBuildDate><atom:link href="https://www.neurolog.dev/tags/rss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facebook Posts</title>
+      <link>https://www.neurolog.dev/posts/facebook-posts/</link>
+      <pubDate>Sat, 02 Jul 2022 23:30:00 +0200</pubDate>
+      
+      <guid>https://www.neurolog.dev/posts/facebook-posts/</guid>
+      <description>Posted to Facebook: It has recently been brought to my attention that I haven&amp;rsquo;t really said anything on here in a very, very, very long time and just post polar bear pictures.
+Very true. Well, there&amp;rsquo;s a good reason for this, and I wrote about it before I stopped posting and responding: I don&amp;rsquo;t trust Facebook and, worse, I would dismantle it if I could for what they have helped to do to our country, and many other countries around the world.</description>
+    </item>
+    
+  </channel>
+</rss>

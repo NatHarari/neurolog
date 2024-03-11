@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nows on neuro[log]</title>
-    <link>https://neurolog.dev/now/</link>
-    <description>Recent content in Nows on neuro[log]</description>
+    <title>Now on neuro[log]</title>
+    <link>https://neurolog.dev/tags/now/</link>
+    <description>Recent content in Now on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Mon, 11 Mar 2024 06:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/now/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 06:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/now/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Now</title>
       <link>https://neurolog.dev/now/</link>

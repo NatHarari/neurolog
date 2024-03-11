@@ -3,9 +3,9 @@ title: "Now"
 url: "/now/"
 date: 2024-03-11T06:00:00+02:00
 draft: false
-summary: about
+summary: now
 author: "Nathaniel Harari"
-tags: ["about","info"]
+tags: ["now","info"]
 categories: ["pages"]
 ---
 ## My now page {#my-now-page}

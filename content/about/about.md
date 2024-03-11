@@ -1,6 +1,5 @@
 ---
 title: "About"
-layout: "single"
 url: "/about/"
 date: 2024-03-11T06:00:00+02:00
 draft: false

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humour on neuro[log]</title>
+    <link>https://neurolog.dev/tags/humour/</link>
+    <description>Recent content in Humour on neuro[log]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Nathaniel Harari</copyright>
+    <lastBuildDate>Fri, 23 Sep 2022 07:40:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/humour/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What were the 70s...</title>
+      <link>https://neurolog.dev/posts/what-were-the-70s-like/</link>
+      <pubDate>Fri, 23 Sep 2022 07:40:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/posts/what-were-the-70s-like/</guid>
+      <description>&amp;ldquo;What were the 70s and early 80s really like?</description>
+      
+    </item>
+    
+    <item>
+      <title>Ahhh...Lunch</title>
+      <link>https://neurolog.dev/posts/ahhh-lunch/</link>
+      <pubDate>Sun, 21 Aug 2022 09:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/posts/ahhh-lunch/</guid>
+      <description>Ahhh&amp;hellip;Lunch.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

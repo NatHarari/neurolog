@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Politics on neuro[log]</title>
+    <link>https://neurolog.dev/categories/politics/</link>
+    <description>Recent content in Politics on neuro[log]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Nathaniel Harari</copyright>
+    <lastBuildDate>Sat, 13 Aug 2022 09:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/categories/politics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QAnon Idiots and Espionage</title>
+      <link>https://neurolog.dev/posts/q-anon-idiots-and-espionage/</link>
+      <pubDate>Sat, 13 Aug 2022 09:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/posts/q-anon-idiots-and-espionage/</guid>
+      <description>I wonder how the QAnon idiots are justifying what&amp;rsquo;s happened.</description>
+      
+    </item>
+    
+    <item>
+      <title>A Terrorist Party</title>
+      <link>https://neurolog.dev/posts/a-terrorist-party/</link>
+      <pubDate>Fri, 12 Aug 2022 09:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/posts/a-terrorist-party/</guid>
+      <description>The Republicans are a terrorist party.</description>
+      
+    </item>
+    
+    <item>
+      <title>The FBI Raid on Trump</title>
+      <link>https://neurolog.dev/posts/the-fbi-raid-on-trump/</link>
+      <pubDate>Tue, 09 Aug 2022 09:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/posts/the-fbi-raid-on-trump/</guid>
+      <description>Don&amp;rsquo;t celebrate yet.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on neuro[log]</title>
+    <link>https://neurolog.dev/tags/test/</link>
+    <description>Recent content in Test on neuro[log]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Nathaniel Harari</copyright>
+    <lastBuildDate>Sat, 02 Jul 2022 16:30:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post</title>
+      <link>https://neurolog.dev/posts/second-post/</link>
+      <pubDate>Sat, 02 Jul 2022 16:30:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/posts/second-post/</guid>
+      <description>Working on the template # Now I have to customise this template a little more.</description>
+      
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://neurolog.dev/posts/first-post/</link>
+      <pubDate>Sat, 02 Jul 2022 16:20:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/posts/first-post/</guid>
+      <description>Welcome to my new blog.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

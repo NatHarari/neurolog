@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neurolog.dev/sitemap.xml

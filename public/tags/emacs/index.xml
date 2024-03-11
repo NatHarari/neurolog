@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on neuro[log]</title>
+    <link>https://neurolog.dev/tags/emacs/</link>
+    <description>Recent content in Emacs on neuro[log]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Nathaniel Harari</copyright>
+    <lastBuildDate>Tue, 27 Feb 2024 06:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Org-Mode does it all</title>
+      <link>https://neurolog.dev/posts/org-does-it-all/</link>
+      <pubDate>Tue, 27 Feb 2024 06:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/posts/org-does-it-all/</guid>
+      <description>Org really does it all # Someone on Hacker News posted a link yesterday to a productivity directory of apps for, of all things, productivity.</description>
+      
+    </item>
+    
+    <item>
+      <title>Skyrim and Emacs</title>
+      <link>https://neurolog.dev/posts/skyrim-and-emacs/</link>
+      <pubDate>Sat, 16 Jul 2022 10:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/posts/skyrim-and-emacs/</guid>
+      <description>I&amp;rsquo;m absolutely loving my MacBook Pro M1 Max # What amazes me is how fast it is.</description>
+      
+    </item>
+    
+    <item>
+      <title>Dracula Theme</title>
+      <link>https://neurolog.dev/posts/dracula-theme/</link>
+      <pubDate>Tue, 05 Jul 2022 16:20:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/posts/dracula-theme/</guid>
+      <description>I really like Dracula Theme for Emacs.</description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo and Emacs</title>
+      <link>https://neurolog.dev/posts/hugo-and-emacs/</link>
+      <pubDate>Sat, 02 Jul 2022 23:30:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/posts/hugo-and-emacs/</guid>
+      <description>I’m installing two Emacs packages which help with Hugo sites.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

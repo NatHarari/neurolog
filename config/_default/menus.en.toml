@@ -1,0 +1,64 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "home"
+url = "/"
+weight = 10
+
+[[main]]
+name = "posts"
+pageRef = "posts"
+weight = 20
+
+[[main]]
+name = "about"
+pageRef = "about"
+weight = 30
+
+[[main]]
+identifier = "email"
+pre = "email"
+url = "inert.fingers-0m@icloud.com"
+weight = 100
+
+[[main]]
+identifier = "bluesky"
+pre = "bluesky"
+url = "https://bsky.app/profile/natharari.bsky.social"
+weight = 200
+
+[[main]]
+identifier = "mastodon"
+pre = "mastodon"
+url = "https://qoto.org/@natharari"
+weight = 300
+
+[[main]]
+identifier = "linkedin"
+pre = "linkedin"
+url = "https://www.linkedin.com/in/nathaniel-harari/"
+weight = 400
+
+[[main]]
+identifier = "facebook"
+pre = "facebook"
+url = "https://www.facebook.com/natharari"
+weight = 500
+
+[[main]]
+identifier = "instagram"
+pre = "instagram"
+url = "https://www.instagram.com/natharari/"
+weight = 600
+
+[[main]]
+identifier = "goodreads"
+pre = "goodreads"
+url = "https://www.goodreads.com/user/show/28327884-nathaniel-harari"
+weight = 700
+
+
+
+[[footer]]
+none = "none"

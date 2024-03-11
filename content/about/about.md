@@ -2,12 +2,10 @@
 title: "About"
 layout: "single"
 url: "/about/"
+date: 2024-03-11T06:00:00+02:00
+draft: false
 summary: about
 author: "Nathaniel Harari"
-cover:
- image: img/me-eiffel-paris.jpg
- alt: "Me. In Paris."
- caption: 'Me. In Paris. on the River.'
 tags: ["about","info"]
 categories: ["pages"]
 ---

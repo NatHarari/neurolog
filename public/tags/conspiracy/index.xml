@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conspiracy on neuro[log]</title>
-    <link>http://localhost:1313/tags/conspiracy/</link>
+    <link>https://neurolog.dev/tags/conspiracy/</link>
     <description>Recent content in Conspiracy on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Sat, 13 Aug 2022 09:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/conspiracy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Aug 2022 09:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/conspiracy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>QAnon Idiots and Espionage</title>
-      <link>http://localhost:1313/posts/q-anon-idiots-and-espionage/</link>
+      <link>https://neurolog.dev/posts/q-anon-idiots-and-espionage/</link>
       <pubDate>Sat, 13 Aug 2022 09:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/q-anon-idiots-and-espionage/</guid>
+      <guid>https://neurolog.dev/posts/q-anon-idiots-and-espionage/</guid>
       <description>I wonder how the QAnon idiots are justifying what&amp;rsquo;s happened.</description>
       
     </item>

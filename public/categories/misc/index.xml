@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Misc on neuro[log]</title>
-    <link>http://localhost:1313/categories/misc/</link>
+    <link>https://neurolog.dev/categories/misc/</link>
     <description>Recent content in Misc on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Tue, 20 Feb 2024 06:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/misc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Feb 2024 06:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/categories/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Social Media Annoyances</title>
-      <link>http://localhost:1313/posts/social-media-annoyances/</link>
+      <link>https://neurolog.dev/posts/social-media-annoyances/</link>
       <pubDate>Tue, 20 Feb 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/social-media-annoyances/</guid>
+      <guid>https://neurolog.dev/posts/social-media-annoyances/</guid>
       <description>Facebook is trying to get my attention # I haven&amp;rsquo;t been on social media in years.</description>
       
     </item>
     
     <item>
       <title>Early Spring Cleaning</title>
-      <link>http://localhost:1313/posts/early-spring-cleaning/</link>
+      <link>https://neurolog.dev/posts/early-spring-cleaning/</link>
       <pubDate>Mon, 12 Feb 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/early-spring-cleaning/</guid>
+      <guid>https://neurolog.dev/posts/early-spring-cleaning/</guid>
       <description>Time to Get Shit Done(tm) # It&amp;rsquo;s time for an early spring cleaning.</description>
       
     </item>
     
     <item>
       <title>Old People and Phones</title>
-      <link>http://localhost:1313/posts/old-people-calls/</link>
+      <link>https://neurolog.dev/posts/old-people-calls/</link>
       <pubDate>Mon, 22 Jan 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/old-people-calls/</guid>
+      <guid>https://neurolog.dev/posts/old-people-calls/</guid>
       <description>Old people and phones # Somebody really needs to start a global program to teach old people that the one thing they should never do is hold their telephone up to their ear when a person video calls them.</description>
       
     </item>
     
     <item>
       <title>Happy 2024 and more</title>
-      <link>http://localhost:1313/posts/happy-2024-and-more/</link>
+      <link>https://neurolog.dev/posts/happy-2024-and-more/</link>
       <pubDate>Fri, 19 Jan 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/happy-2024-and-more/</guid>
+      <guid>https://neurolog.dev/posts/happy-2024-and-more/</guid>
       <description>Happy New Year # I haven&amp;rsquo;t written here in donkey&amp;rsquo;s years.</description>
       
     </item>
     
     <item>
       <title>What were the 70s...</title>
-      <link>http://localhost:1313/posts/what-were-the-70s-like/</link>
+      <link>https://neurolog.dev/posts/what-were-the-70s-like/</link>
       <pubDate>Fri, 23 Sep 2022 07:40:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/what-were-the-70s-like/</guid>
+      <guid>https://neurolog.dev/posts/what-were-the-70s-like/</guid>
       <description>&amp;ldquo;What were the 70s and early 80s really like?</description>
       
     </item>
     
     <item>
       <title>Nintendo Egg Game</title>
-      <link>http://localhost:1313/posts/egg-game/</link>
+      <link>https://neurolog.dev/posts/egg-game/</link>
       <pubDate>Sat, 17 Sep 2022 09:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/egg-game/</guid>
+      <guid>https://neurolog.dev/posts/egg-game/</guid>
       <description>A blast from the past # I was cleaning out some more things today and I found this gem.</description>
       
     </item>
     
     <item>
       <title>Goodbye old MacBook Pro</title>
-      <link>http://localhost:1313/posts/goodbye-old-macbook-pro/</link>
+      <link>https://neurolog.dev/posts/goodbye-old-macbook-pro/</link>
       <pubDate>Wed, 31 Aug 2022 08:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/goodbye-old-macbook-pro/</guid>
+      <guid>https://neurolog.dev/posts/goodbye-old-macbook-pro/</guid>
       <description>Goodbye Old 2011 MacBook Pro.</description>
       
     </item>
     
     <item>
       <title>Goodbye Morning Bears</title>
-      <link>http://localhost:1313/posts/goodbye-morning-bears/</link>
+      <link>https://neurolog.dev/posts/goodbye-morning-bears/</link>
       <pubDate>Thu, 25 Aug 2022 09:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/goodbye-morning-bears/</guid>
+      <guid>https://neurolog.dev/posts/goodbye-morning-bears/</guid>
       <description>Goodbye morning bears.</description>
       
     </item>
     
     <item>
       <title>Second Post</title>
-      <link>http://localhost:1313/posts/second-post/</link>
+      <link>https://neurolog.dev/posts/second-post/</link>
       <pubDate>Sat, 02 Jul 2022 16:30:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/second-post/</guid>
+      <guid>https://neurolog.dev/posts/second-post/</guid>
       <description>Working on the template # Now I have to customise this template a little more.</description>
       
     </item>
     
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>https://neurolog.dev/posts/first-post/</link>
       <pubDate>Sat, 02 Jul 2022 16:20:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>https://neurolog.dev/posts/first-post/</guid>
       <description>Welcome to my new blog.</description>
       
     </item>

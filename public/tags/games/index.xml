@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games on neuro[log]</title>
-    <link>http://localhost:1313/tags/games/</link>
+    <link>https://neurolog.dev/tags/games/</link>
     <description>Recent content in Games on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Sat, 17 Sep 2022 09:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Sep 2022 09:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nintendo Egg Game</title>
-      <link>http://localhost:1313/posts/egg-game/</link>
+      <link>https://neurolog.dev/posts/egg-game/</link>
       <pubDate>Sat, 17 Sep 2022 09:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/egg-game/</guid>
+      <guid>https://neurolog.dev/posts/egg-game/</guid>
       <description>A blast from the past # I was cleaning out some more things today and I found this gem.</description>
       
     </item>

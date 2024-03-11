@@ -2,158 +2,158 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on neuro[log]</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://neurolog.dev/categories/</link>
     <description>Recent content in Categories on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Mon, 11 Mar 2024 06:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 06:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/categories/hugo/</link>
+      <link>https://neurolog.dev/categories/hugo/</link>
       <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/categories/hugo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>http://localhost:1313/categories/tech/</link>
-      <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/categories/tech/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Emacs</title>
-      <link>http://localhost:1313/categories/emacs/</link>
-      <pubDate>Tue, 27 Feb 2024 06:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/categories/emacs/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Misc</title>
-      <link>http://localhost:1313/categories/misc/</link>
-      <pubDate>Tue, 20 Feb 2024 06:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/categories/misc/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>History</title>
-      <link>http://localhost:1313/categories/history/</link>
-      <pubDate>Sun, 29 Oct 2023 05:34:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/categories/history/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Opinion</title>
-      <link>http://localhost:1313/categories/opinion/</link>
-      <pubDate>Sun, 29 Oct 2023 05:34:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/categories/opinion/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Computers</title>
-      <link>http://localhost:1313/categories/computers/</link>
-      <pubDate>Thu, 27 Apr 2023 07:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/categories/computers/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Humour</title>
-      <link>http://localhost:1313/categories/humour/</link>
-      <pubDate>Fri, 23 Sep 2022 07:40:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/categories/humour/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Whisky</title>
-      <link>http://localhost:1313/categories/whisky/</link>
-      <pubDate>Sun, 21 Aug 2022 09:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/categories/whisky/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Conspiracy</title>
-      <link>http://localhost:1313/categories/conspiracy/</link>
-      <pubDate>Sat, 13 Aug 2022 09:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/categories/conspiracy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Politics</title>
-      <link>http://localhost:1313/categories/politics/</link>
-      <pubDate>Sat, 13 Aug 2022 09:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/categories/politics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Law</title>
-      <link>http://localhost:1313/categories/law/</link>
-      <pubDate>Fri, 12 Aug 2022 09:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/categories/law/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Games</title>
-      <link>http://localhost:1313/categories/games/</link>
-      <pubDate>Sat, 16 Jul 2022 10:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/categories/games/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/categories/test/</link>
-      <pubDate>Sat, 02 Jul 2022 16:30:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/categories/test/</guid>
+      <guid>https://neurolog.dev/categories/hugo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pages</title>
-      <link>http://localhost:1313/categories/pages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://neurolog.dev/categories/pages/</link>
+      <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/categories/pages/</guid>
+      <guid>https://neurolog.dev/categories/pages/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://neurolog.dev/categories/tech/</link>
+      <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/tech/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Emacs</title>
+      <link>https://neurolog.dev/categories/emacs/</link>
+      <pubDate>Tue, 27 Feb 2024 06:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/emacs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Misc</title>
+      <link>https://neurolog.dev/categories/misc/</link>
+      <pubDate>Tue, 20 Feb 2024 06:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/misc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://neurolog.dev/categories/history/</link>
+      <pubDate>Sun, 29 Oct 2023 05:34:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/history/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Opinion</title>
+      <link>https://neurolog.dev/categories/opinion/</link>
+      <pubDate>Sun, 29 Oct 2023 05:34:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/opinion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Computers</title>
+      <link>https://neurolog.dev/categories/computers/</link>
+      <pubDate>Thu, 27 Apr 2023 07:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/computers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Humour</title>
+      <link>https://neurolog.dev/categories/humour/</link>
+      <pubDate>Fri, 23 Sep 2022 07:40:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/humour/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Whisky</title>
+      <link>https://neurolog.dev/categories/whisky/</link>
+      <pubDate>Sun, 21 Aug 2022 09:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/whisky/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Conspiracy</title>
+      <link>https://neurolog.dev/categories/conspiracy/</link>
+      <pubDate>Sat, 13 Aug 2022 09:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/conspiracy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>https://neurolog.dev/categories/politics/</link>
+      <pubDate>Sat, 13 Aug 2022 09:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/politics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Law</title>
+      <link>https://neurolog.dev/categories/law/</link>
+      <pubDate>Fri, 12 Aug 2022 09:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/law/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>https://neurolog.dev/categories/games/</link>
+      <pubDate>Sat, 16 Jul 2022 10:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/games/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://neurolog.dev/categories/test/</link>
+      <pubDate>Sat, 02 Jul 2022 16:30:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/test/</guid>
       <description></description>
       
     </item>

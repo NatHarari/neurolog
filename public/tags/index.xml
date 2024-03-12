@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Mon, 11 Mar 2024 23:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Mar 2024 09:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Misc</title>
+      <link>https://neurolog.dev/tags/misc/</link>
+      <pubDate>Tue, 12 Mar 2024 09:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/tags/misc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://neurolog.dev/tags/writing/</link>
+      <pubDate>Tue, 12 Mar 2024 09:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/tags/writing/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Memories</title>
       <link>https://neurolog.dev/tags/memories/</link>
@@ -74,16 +94,6 @@
       <pubDate>Tue, 27 Feb 2024 06:00:00 +0200</pubDate>
       
       <guid>https://neurolog.dev/tags/emacs/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Misc</title>
-      <link>https://neurolog.dev/tags/misc/</link>
-      <pubDate>Tue, 20 Feb 2024 06:00:00 +0200</pubDate>
-      
-      <guid>https://neurolog.dev/tags/misc/</guid>
       <description></description>
       
     </item>

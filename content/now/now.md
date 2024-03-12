@@ -16,23 +16,18 @@ categories: ["pages"]
 -   Cleaning out the apartment. I'm going to throw out some things today.
 -   Getting a new job, after a long time.
 
-
 ### What I'm listening to {#what-i-m-listening-to}
--   Izak Perlman and Isaac Stern play Bach's Double Concerto for Violin.
-
+-   Benny Goodman - Sing, Sing, Sing
 
 ### What I'm reading {#what-i-m-reading}
 -   [Growth of the Soil by Knut Hamsun](https://www.amazon.com/Growth-Soil-Knut-Hamsun-ebook/dp/B0BLVLC47X/)
 -   [Lolly Willowes by Sylvia Townsend Warner](https://www.amazon.com/Willowes-Loving-Huntsman-Sylvia-Townsend-ebook/dp/B0BRQNP37K/)
 
-
 ### What I'm watching {#what-i-m-watching}
 -   Alien (The Anthology)
 
-
 ### What I'm making {#what-i-m-making}
 -   My newly redone website.
-
 
 ### What I'm enjoying {#what-i-m-enjoying}
 -   A new sense of purpose.

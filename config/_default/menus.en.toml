@@ -25,7 +25,7 @@ weight = 30
 
 [[main]]
 name = "resume"
-url = "/nathaniel-harari-resume-online-version.docx"
+url = "https://neurolog.dev/nathaniel-harari-resume-online-version.docx"
 weight = 100
 
 [[main]]

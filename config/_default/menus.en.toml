@@ -24,10 +24,15 @@ url = "/about/about.md"
 weight = 30
 
 [[main]]
+name = "resume"
+url = "/nathaniel-harari-resume-online-version.docx"
+weight = 100
+
+[[main]]
 identifier = "email"
 pre = "email"
 url = "inert.fingers-0m@icloud.com"
-weight = 100
+weight = 110
 
 [[main]]
 identifier = "bluesky"

@@ -23,10 +23,10 @@ pageRef = "about"
 url = "/about/about.md"
 weight = 30
 
-[[main]]
-name = "resume"
-url = "https://neurolog.dev/nathaniel-harari-resume-online-version.docx"
-weight = 100
+# [[main]]
+# name = "resume"
+# url = "https://neurolog.dev/nathaniel-harari-resume-online-version.docx"
+# weight = 100
 
 [[main]]
 identifier = "email"

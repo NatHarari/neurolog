@@ -28,10 +28,10 @@ categories: ["pages"]
 - The Marvelous Mrs. Maisel.
 
 ### What I'm making {#what-i-m-making}
-- A new passwords db with ![pass](https://www.passwordstore.org)
+- A new passwords db with [pass](https://www.passwordstore.org)
 
 ### What I'm enjoying {#what-i-m-enjoying}
 - A new sense of purpose.
 
 
-#### Last Updated: 2024-03-12 {#last-updated-2024-03-12}
+#### Last Updated: 2024-03-14 {#last-updated-2024-03-14}

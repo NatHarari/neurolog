@@ -17,8 +17,7 @@ categories: ["pages"]
 - Getting a new job, after a long time.
 
 ### What I'm listening to {#what-i-m-listening-to}
-- Benny Goodman - Sing, Sing, Sing
-- Led Zeppelin - Houses of the Holy
+- ELO - Mister Blue Sky
 
 ### What I'm reading {#what-i-m-reading}
 - [Growth of the Soil by Knut Hamsun](https://www.amazon.com/Growth-Soil-Knut-Hamsun-ebook/dp/B0BLVLC47X/)
@@ -26,9 +25,10 @@ categories: ["pages"]
 
 ### What I'm watching {#what-i-m-watching}
 - Alien (The Anthology)
+- The Marvelous Mrs. Maisel.
 
 ### What I'm making {#what-i-m-making}
-- My newly redone website.
+- A new passwords db with ![pass](https://www.passwordstore.org)
 
 ### What I'm enjoying {#what-i-m-enjoying}
 - A new sense of purpose.

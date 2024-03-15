@@ -13,25 +13,23 @@ categories: ["pages"]
 (Credit [BSAG](https://bsag.omg.lol/now))
 
 ### What I'm thinking about {#what-i-m-thinking-about}
-- Cleaning out the apartment. I'm going to throw out some things today.
-- Getting a new job, after a long time.
+- Waking up
 
 ### What I'm listening to {#what-i-m-listening-to}
-- ELO - Mister Blue Sky
+- Nothing. Sometimes silence is golden.
 
 ### What I'm reading {#what-i-m-reading}
 - [Growth of the Soil by Knut Hamsun](https://www.amazon.com/Growth-Soil-Knut-Hamsun-ebook/dp/B0BLVLC47X/)
 - [Lolly Willowes by Sylvia Townsend Warner](https://www.amazon.com/Willowes-Loving-Huntsman-Sylvia-Townsend-ebook/dp/B0BRQNP37K/)
 
 ### What I'm watching {#what-i-m-watching}
-- Alien (The Anthology)
-- The Marvelous Mrs. Maisel.
+- The Marvelous Mrs. Maisel. (It's fantastic)
 
 ### What I'm making {#what-i-m-making}
-- A new passwords db with [pass](https://www.passwordstore.org)
+- A new passwords db with [pass](https://www.passwordstore.org) - Done.
 
 ### What I'm enjoying {#what-i-m-enjoying}
 - A new sense of purpose.
 
 
-#### Last Updated: 2024-03-14 {#last-updated-2024-03-14}
+#### Last Updated: 2024-03-15 {#last-updated-2024-03-15}

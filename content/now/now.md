@@ -13,10 +13,10 @@ categories: ["pages"]
 (Credit [BSAG](https://bsag.omg.lol/now))
 
 ### What I'm thinking about {#what-i-m-thinking-about}
-- Waking up
+- Relaxing past my bedtime.
 
 ### What I'm listening to {#what-i-m-listening-to}
-- Nothing. Sometimes silence is golden.
+- Styx - Come Sail Away
 
 ### What I'm reading {#what-i-m-reading}
 - [Growth of the Soil by Knut Hamsun](https://www.amazon.com/Growth-Soil-Knut-Hamsun-ebook/dp/B0BLVLC47X/)
@@ -26,7 +26,7 @@ categories: ["pages"]
 - The Marvelous Mrs. Maisel. (It's fantastic)
 
 ### What I'm making {#what-i-m-making}
-- A new passwords db with [pass](https://www.passwordstore.org) - Done.
+- Putting order finally in my Calibre library (It's bloody huge).
 
 ### What I'm enjoying {#what-i-m-enjoying}
 - A new sense of purpose.

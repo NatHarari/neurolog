@@ -13,14 +13,13 @@ categories: ["pages"]
 (Credit [BSAG](https://bsag.omg.lol/now))
 
 ### What I'm thinking about {#what-i-m-thinking-about}
-- Relaxing past my bedtime.
+- Reading  up on news with Elfeed.
 
 ### What I'm listening to {#what-i-m-listening-to}
-- Styx - Come Sail Away
+- Nothing - sometimes silence is golden.
 
 ### What I'm reading {#what-i-m-reading}
-- [Growth of the Soil by Knut Hamsun](https://www.amazon.com/Growth-Soil-Knut-Hamsun-ebook/dp/B0BLVLC47X/)
-- [Lolly Willowes by Sylvia Townsend Warner](https://www.amazon.com/Willowes-Loving-Huntsman-Sylvia-Townsend-ebook/dp/B0BRQNP37K/)
+Nothing right now - I'm deciding what I'll be reading soon.
 
 ### What I'm watching {#what-i-m-watching}
 - The Marvelous Mrs. Maisel. (It's fantastic)
@@ -32,4 +31,4 @@ categories: ["pages"]
 - A new sense of purpose.
 
 
-#### Last Updated: 2024-03-15 {#last-updated-2024-03-15}
+#### Last Updated: 2024-03-18 {#last-updated-2024-03-18}

@@ -13,7 +13,7 @@ categories: ["pages"]
 (Credit [BSAG](https://bsag.omg.lol/now))
 
 ### What I'm thinking about {#what-i-m-thinking-about}
-- Reading  up on news with Elfeed.
+- Reading  up on news with Elfeed and my coffee.
 
 ### What I'm listening to {#what-i-m-listening-to}
 - Nothing - sometimes silence is golden.

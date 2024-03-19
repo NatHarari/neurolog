@@ -13,13 +13,13 @@ categories: ["pages"]
 (Credit [BSAG](https://bsag.omg.lol/now))
 
 ### What I'm thinking about {#what-i-m-thinking-about}
-- Reading  up on news with Elfeed and my coffee.
+- Putin's threats about nuclear war.
 
 ### What I'm listening to {#what-i-m-listening-to}
 - Nothing - sometimes silence is golden.
 
 ### What I'm reading {#what-i-m-reading}
-Nothing right now - I'm deciding what I'll be reading soon.
+[A Deadly Education](https://www.goodreads.com/book/show/50548197-a-deadly-education) - by Naomi Novik
 
 ### What I'm watching {#what-i-m-watching}
 - The Marvelous Mrs. Maisel. (It's fantastic)
@@ -31,4 +31,4 @@ Nothing right now - I'm deciding what I'll be reading soon.
 - A new sense of purpose.
 
 
-#### Last Updated: 2024-03-18 {#last-updated-2024-03-18}
+#### Last Updated: 2024-03-19 {#last-updated-2024-03-19}

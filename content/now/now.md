@@ -28,7 +28,7 @@ categories: ["pages"]
 - Chili con carne 🌶️
 
 ### What I'm enjoying {#what-i-m-enjoying}
-- A new sense of purpose.
+- A new sense of purpose in life.
 
 
 #### Last Updated: 2024-03-19 {#last-updated-2024-03-19}

@@ -13,22 +13,22 @@ categories: ["pages"]
 (Credit [BSAG](https://bsag.omg.lol/now))
 
 ### What I'm thinking about {#what-i-m-thinking-about}
-- Dinner tonight
+- Getting some pipe tobacco tomorrow morning. It's been years since I've had a good pipe.
 
 ### What I'm listening to {#what-i-m-listening-to}
-- Mozart: Die Zauberflöte - Berlin Philharmonic & Herbert von Karajan
+- Absolutely nothing right now.
 
 ### What I'm reading {#what-i-m-reading}
-[A Deadly Education](https://www.goodreads.com/book/show/50548197-a-deadly-education) - by Naomi Novik
+- [Babel](https://www.goodreads.com/en/book/show/57945316 "Babel on Goodreads") by R. F. Kuang
 
 ### What I'm watching {#what-i-m-watching}
-- The Marvelous Mrs. Maisel. (It's fantastic) (still watching)
+- Constellation. I finished Mrs. Maisel and it was fantastic.
 
 ### What I'm making {#what-i-m-making}
-- Chili con carne 🌶️
+- Nothing right now.
 
 ### What I'm enjoying {#what-i-m-enjoying}
-- A new sense of purpose in life.
+- A new sense of nervousness.
 
 
 #### Last Updated: 2024-03-19 {#last-updated-2024-03-19}

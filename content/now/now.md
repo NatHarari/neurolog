@@ -13,22 +13,22 @@ categories: ["pages"]
 (Credit [BSAG](https://bsag.omg.lol/now))
 
 ### What I'm thinking about {#what-i-m-thinking-about}
-- Getting some pipe tobacco tomorrow morning. It's been years since I've had a good pipe.
+- Going to the tax office to get some documents signed.
 
 ### What I'm listening to {#what-i-m-listening-to}
-- Absolutely nothing right now.
+- I haven't decided yet.
 
 ### What I'm reading {#what-i-m-reading}
 - [Babel](https://www.goodreads.com/en/book/show/57945316 "Babel on Goodreads") by R. F. Kuang
 
 ### What I'm watching {#what-i-m-watching}
-- Constellation. I finished Mrs. Maisel and it was fantastic.
+- Lexx. It's been a long time. It's just as incredibly weird as I remembered.
 
 ### What I'm making {#what-i-m-making}
-- Nothing right now.
+- Sourdough starter. It's going very well.
 
 ### What I'm enjoying {#what-i-m-enjoying}
-- A new sense of nervousness.
+- A sense of patience.
 
 
-#### Last Updated: 2024-03-19 {#last-updated-2024-03-19}
+#### Last Updated: 2024-04-22 {#last-updated-2024-04-22}

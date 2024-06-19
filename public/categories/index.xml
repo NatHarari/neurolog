@@ -109,6 +109,16 @@
     </item>
     
     <item>
+      <title>Politics</title>
+      <link>https://neurolog.dev/categories/politics/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/politics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Humour</title>
       <link>https://neurolog.dev/categories/humour/</link>
       <pubDate>Fri, 23 Sep 2022 07:40:00 +0200</pubDate>
@@ -139,16 +149,6 @@
     </item>
     
     <item>
-      <title>Politics</title>
-      <link>https://neurolog.dev/categories/politics/</link>
-      <pubDate>Sat, 13 Aug 2022 09:00:00 +0200</pubDate>
-      
-      <guid>https://neurolog.dev/categories/politics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Law</title>
       <link>https://neurolog.dev/categories/law/</link>
       <pubDate>Fri, 12 Aug 2022 09:00:00 +0200</pubDate>
@@ -164,6 +164,16 @@
       <pubDate>Sat, 16 Jul 2022 10:00:00 +0200</pubDate>
       
       <guid>https://neurolog.dev/categories/games/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rant</title>
+      <link>https://neurolog.dev/categories/rant/</link>
+      <pubDate>Sat, 02 Jul 2022 23:30:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/categories/rant/</guid>
       <description></description>
       
     </item>

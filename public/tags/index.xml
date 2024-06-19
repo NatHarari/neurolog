@@ -149,6 +149,16 @@
     </item>
     
     <item>
+      <title>Politics</title>
+      <link>https://neurolog.dev/tags/politics/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/tags/politics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Computers</title>
       <link>https://neurolog.dev/tags/computers/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0200</pubDate>
@@ -229,16 +239,6 @@
     </item>
     
     <item>
-      <title>Politics</title>
-      <link>https://neurolog.dev/tags/politics/</link>
-      <pubDate>Sat, 13 Aug 2022 09:00:00 +0200</pubDate>
-      
-      <guid>https://neurolog.dev/tags/politics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Law</title>
       <link>https://neurolog.dev/tags/law/</link>
       <pubDate>Fri, 12 Aug 2022 09:00:00 +0200</pubDate>
@@ -264,6 +264,26 @@
       <pubDate>Sat, 16 Jul 2022 10:00:00 +0200</pubDate>
       
       <guid>https://neurolog.dev/tags/skyrim/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>America</title>
+      <link>https://neurolog.dev/tags/america/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/tags/america/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Oped</title>
+      <link>https://neurolog.dev/tags/oped/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/tags/oped/</guid>
       <description></description>
       
     </item>
@@ -324,6 +344,16 @@
       <pubDate>Sun, 03 Jul 2022 21:32:00 +0200</pubDate>
       
       <guid>https://neurolog.dev/tags/site/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rss</title>
+      <link>https://neurolog.dev/tags/rss/</link>
+      <pubDate>Sat, 02 Jul 2022 23:30:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/tags/rss/</guid>
       <description></description>
       
     </item>

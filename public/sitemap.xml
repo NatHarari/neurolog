@@ -117,6 +117,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://neurolog.dev/posts/strikes-in-france/</loc>
+    <lastmod>2023-01-19T00:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://neurolog.dev/posts/mastodon/</loc>
     <lastmod>2022-11-27T00:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
@@ -189,6 +195,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://neurolog.dev/posts/in-any-other-democracy/</loc>
+    <lastmod>2022-07-13T00:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://neurolog.dev/posts/xbar/</loc>
     <lastmod>2022-07-12T00:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
@@ -215,6 +227,12 @@
   <url>
     <loc>https://neurolog.dev/posts/added-about-page/</loc>
     <lastmod>2022-07-03T21:32:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neurolog.dev/posts/facebook-posts/</loc>
+    <lastmod>2022-07-02T23:30:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -13,16 +13,16 @@ categories: ["pages"]
 (Credit [BSAG](https://bsag.omg.lol/now))
 
 ### What I'm thinking about {#what-i-m-thinking-about}
-- Being on vacation.
+- Finding a job.
 
 ### What I'm listening to {#what-i-m-listening-to}
-- Anne Applebaum on Bill Kristol's show.
+- Mozart Piano Concerto No. 23
 
 ### What I'm reading {#what-i-m-reading}
 - [Babel](https://www.goodreads.com/en/book/show/57945316 "Babel on Goodreads") by R. F. Kuang
 
 ### What I'm watching {#what-i-m-watching}
-- Eureka
+- The Umbrella Academy Season 4
 
 ### What I'm making {#what-i-m-making}
 - Nothing much right now.
@@ -31,4 +31,4 @@ categories: ["pages"]
 - The quiet countryside.
 
 
-#### Last Updated: 2024-06-19 {#last-updated-2024-06-19}
+#### Last Updated: 2024-08-14 {#last-updated-2024-08-14}

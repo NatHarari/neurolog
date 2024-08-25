@@ -16,13 +16,13 @@ categories: ["pages"]
 - Finding a job.
 
 ### What I'm listening to {#what-i-m-listening-to}
-- Mozart Piano Concerto No. 23
+- Bart Ehrman on the Gospel of Judas
 
 ### What I'm reading {#what-i-m-reading}
 - [Babel](https://www.goodreads.com/en/book/show/57945316 "Babel on Goodreads") by R. F. Kuang
 
 ### What I'm watching {#what-i-m-watching}
-- The Umbrella Academy Season 4
+- Dark Matter Season 01
 
 ### What I'm making {#what-i-m-making}
 - Nothing much right now.
@@ -31,4 +31,4 @@ categories: ["pages"]
 - The quiet countryside.
 
 
-#### Last Updated: 2024-08-14 {#last-updated-2024-08-14}
+#### Last Updated: 2024-08-25 {#last-updated-2024-08-25}

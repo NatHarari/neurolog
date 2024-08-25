@@ -28,7 +28,7 @@ categories: ["pages"]
 - Nothing much right now.
 
 ### What I'm enjoying {#what-i-m-enjoying}
-- The quiet countryside.
+- The quiet countryside and my friend playing FIFA 2020 on the XBox.
 
 
 #### Last Updated: 2024-08-25 {#last-updated-2024-08-25}

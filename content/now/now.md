@@ -13,22 +13,22 @@ categories: ["pages"]
 (Credit [BSAG](https://bsag.omg.lol/now))
 
 ### What I'm thinking about {#what-i-m-thinking-about}
-- Finding a job.
+- Finding a job ASAP.
 
 ### What I'm listening to {#what-i-m-listening-to}
-- Bart Ehrman on the Gospel of Judas
+- The Marriage of Figaro by Mozart
 
 ### What I'm reading {#what-i-m-reading}
-- [Babel](https://www.goodreads.com/en/book/show/57945316 "Babel on Goodreads") by R. F. Kuang
+- Job postings.
 
 ### What I'm watching {#what-i-m-watching}
-- Dark Matter Season 01
+- War of the Worlds, Season 03
 
 ### What I'm making {#what-i-m-making}
-- Nothing much right now.
+- Hay.
 
 ### What I'm enjoying {#what-i-m-enjoying}
-- The quiet countryside and my friend playing FIFA 2020 on the XBox.
+- The music I'm listening to.
 
 
-#### Last Updated: 2024-08-25 {#last-updated-2024-08-25}
+#### Last Updated: 2024-09-02 {#last-updated-2024-09-02}

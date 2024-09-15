@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dnd on neuro[log]</title>
-    <link>https://neurolog.dev/tags/dnd/</link>
+    <link>http://localhost:1313/tags/dnd/</link>
     <description>Recent content in Dnd on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Thu, 27 Apr 2023 07:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/dnd/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Thu, 27 Apr 2023 07:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/dnd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChatGPT Dungeons &amp; Dragons</title>
-      <link>https://neurolog.dev/posts/chatgpt-dnd/</link>
+      <link>http://localhost:1313/posts/chatgpt-dnd/</link>
       <pubDate>Thu, 27 Apr 2023 07:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/chatgpt-dnd/</guid>
-      <description>ChatGPT Dungeons &amp;amp; Dragons # As a fun little experiment last night, I had ChatGPT write out a little Dungeons and Dragons adventure.</description>
+      <guid>http://localhost:1313/posts/chatgpt-dnd/</guid>
+      <description></description>
       
     </item>
     

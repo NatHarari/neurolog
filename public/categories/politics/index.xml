@@ -2,79 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Politics on neuro[log]</title>
-    <link>https://neurolog.dev/categories/politics/</link>
+    <link>http://localhost:1313/categories/politics/</link>
     <description>Recent content in Politics on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Thu, 04 Jul 2024 09:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/categories/politics/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Thu, 04 Jul 2024 09:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/politics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Treason</title>
-      <link>https://neurolog.dev/posts/treason/</link>
+      <link>http://localhost:1313/posts/treason/</link>
       <pubDate>Thu, 04 Jul 2024 09:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/treason/</guid>
-      <description>Immunity # If there was any Supreme Court decision or act that justified the overturn of that institution, it is this.</description>
+      <guid>http://localhost:1313/posts/treason/</guid>
+      <description></description>
       
     </item>
     
     <item>
       <title>French Conservatives</title>
-      <link>https://neurolog.dev/posts/french-conservatives/</link>
+      <link>http://localhost:1313/posts/french-conservatives/</link>
       <pubDate>Sat, 22 Jun 2024 09:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/french-conservatives/</guid>
-      <description>French Conservatives # I&amp;rsquo;ve wanted to write this for a while: France can be extremely conservative.</description>
-      
-    </item>
-    
-    <item>
-      <title>Strikes in France</title>
-      <link>https://neurolog.dev/posts/strikes-in-france/</link>
-      <pubDate>Thu, 19 Jan 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://neurolog.dev/posts/strikes-in-france/</guid>
-      <description>Strikes in France # There are huge strikes today in France because of the proposed reforms by Macron to increase the retirement age.</description>
+      <guid>http://localhost:1313/posts/french-conservatives/</guid>
+      <description></description>
       
     </item>
     
     <item>
       <title>QAnon Idiots and Espionage</title>
-      <link>https://neurolog.dev/posts/q-anon-idiots-and-espionage/</link>
+      <link>http://localhost:1313/posts/q-anon-idiots-and-espionage/</link>
       <pubDate>Sat, 13 Aug 2022 09:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/q-anon-idiots-and-espionage/</guid>
-      <description>I wonder how the QAnon idiots are justifying what&amp;rsquo;s happened.</description>
+      <guid>http://localhost:1313/posts/q-anon-idiots-and-espionage/</guid>
+      <description></description>
       
     </item>
     
     <item>
       <title>A Terrorist Party</title>
-      <link>https://neurolog.dev/posts/a-terrorist-party/</link>
+      <link>http://localhost:1313/posts/a-terrorist-party/</link>
       <pubDate>Fri, 12 Aug 2022 09:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/a-terrorist-party/</guid>
-      <description>The Republicans are a terrorist party.</description>
+      <guid>http://localhost:1313/posts/a-terrorist-party/</guid>
+      <description></description>
       
     </item>
     
     <item>
       <title>The FBI Raid on Trump</title>
-      <link>https://neurolog.dev/posts/the-fbi-raid-on-trump/</link>
+      <link>http://localhost:1313/posts/the-fbi-raid-on-trump/</link>
       <pubDate>Tue, 09 Aug 2022 09:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/the-fbi-raid-on-trump/</guid>
-      <description>Don&amp;rsquo;t celebrate yet.</description>
-      
-    </item>
-    
-    <item>
-      <title>In any other democracy...</title>
-      <link>https://neurolog.dev/posts/in-any-other-democracy/</link>
-      <pubDate>Wed, 13 Jul 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://neurolog.dev/posts/in-any-other-democracy/</guid>
-      <description>In any other democracy&amp;hellip; # Living here in France, as I do, it is extremely difficult to explain to the French that the United States is a society based upon civilized laws and a democracy.</description>
+      <guid>http://localhost:1313/posts/the-fbi-raid-on-trump/</guid>
+      <description></description>
       
     </item>
     

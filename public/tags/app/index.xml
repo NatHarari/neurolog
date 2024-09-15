@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>App on neuro[log]</title>
-    <link>https://neurolog.dev/tags/app/</link>
+    <link>http://localhost:1313/tags/app/</link>
     <description>Recent content in App on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Warp.dev</title>
-      <link>https://neurolog.dev/posts/warp-dev/</link>
+      <link>http://localhost:1313/posts/warp-dev/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/warp-dev/</guid>
-      <description>warp terminal # I&amp;rsquo;ve recently come across warp - a new terminal application currently for Mac only and in beta.</description>
+      <guid>http://localhost:1313/posts/warp-dev/</guid>
+      <description></description>
       
     </item>
     
     <item>
       <title>xbar</title>
-      <link>https://neurolog.dev/posts/xbar/</link>
+      <link>http://localhost:1313/posts/xbar/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/xbar/</guid>
-      <description>xbar is really cool.</description>
+      <guid>http://localhost:1313/posts/xbar/</guid>
+      <description></description>
       
     </item>
     

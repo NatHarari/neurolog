@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Org-Mode on neuro[log]</title>
-    <link>https://neurolog.dev/tags/org-mode/</link>
+    <link>http://localhost:1313/tags/org-mode/</link>
     <description>Recent content in Org-Mode on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/org-mode/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/org-mode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apple Reminders vs. Org Agenda</title>
-      <link>https://neurolog.dev/posts/reminders-vs-org-agenda/</link>
+      <link>http://localhost:1313/posts/reminders-vs-org-agenda/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/reminders-vs-org-agenda/</guid>
-      <description>I’ve decided a few things about Org Mode.</description>
+      <guid>http://localhost:1313/posts/reminders-vs-org-agenda/</guid>
+      <description></description>
       
     </item>
     

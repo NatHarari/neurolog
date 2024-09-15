@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing on neuro[log]</title>
-    <link>https://neurolog.dev/tags/writing/</link>
+    <link>http://localhost:1313/tags/writing/</link>
     <description>Recent content in Writing on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Nathaniel Harari</copyright>
-    <lastBuildDate>Tue, 12 Mar 2024 09:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Tue, 12 Mar 2024 09:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Shavian Alphabet</title>
-      <link>https://neurolog.dev/posts/shavian/</link>
+      <link>http://localhost:1313/posts/shavian/</link>
       <pubDate>Tue, 12 Mar 2024 09:00:00 +0200</pubDate>
       
-      <guid>https://neurolog.dev/posts/shavian/</guid>
-      <description>Something to learn someday: # I just rediscovered the Shavian writing system.</description>
+      <guid>http://localhost:1313/posts/shavian/</guid>
+      <description></description>
       
     </item>
     

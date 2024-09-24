@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on neuro[log]</title>
-    <link>http://localhost:1313/about/</link>
+    <link>https://neurolog.dev/about/</link>
     <description>Recent content in Abouts on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Mon, 11 Mar 2024 06:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 06:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://neurolog.dev/about/</link>
       <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://neurolog.dev/about/</guid>
       <description>about</description>
       
     </item>

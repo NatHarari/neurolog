@@ -2,188 +2,198 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on neuro[log]</title>
-    <link>http://localhost:1313/categories/tech/</link>
+    <link>https://neurolog.dev/categories/tech/</link>
     <description>Recent content in Tech on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Mon, 11 Mar 2024 23:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 23:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thirty Years</title>
-      <link>http://localhost:1313/posts/thirty-years/</link>
+      <link>https://neurolog.dev/posts/thirty-years/</link>
       <pubDate>Mon, 11 Mar 2024 23:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/thirty-years/</guid>
+      <guid>https://neurolog.dev/posts/thirty-years/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>New Theme</title>
-      <link>http://localhost:1313/posts/new-theme/</link>
+      <link>https://neurolog.dev/posts/new-theme/</link>
       <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/new-theme/</guid>
+      <guid>https://neurolog.dev/posts/new-theme/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Org-Mode does it all</title>
-      <link>http://localhost:1313/posts/org-does-it-all/</link>
+      <link>https://neurolog.dev/posts/org-does-it-all/</link>
       <pubDate>Tue, 27 Feb 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/org-does-it-all/</guid>
+      <guid>https://neurolog.dev/posts/org-does-it-all/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Social Media Annoyances</title>
-      <link>http://localhost:1313/posts/social-media-annoyances/</link>
+      <link>https://neurolog.dev/posts/social-media-annoyances/</link>
       <pubDate>Tue, 20 Feb 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/social-media-annoyances/</guid>
+      <guid>https://neurolog.dev/posts/social-media-annoyances/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Old People and Phones</title>
-      <link>http://localhost:1313/posts/old-people-calls/</link>
+      <link>https://neurolog.dev/posts/old-people-calls/</link>
       <pubDate>Mon, 22 Jan 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/old-people-calls/</guid>
+      <guid>https://neurolog.dev/posts/old-people-calls/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ChatGPT Dungeons &amp; Dragons</title>
-      <link>http://localhost:1313/posts/chatgpt-dnd/</link>
+      <link>https://neurolog.dev/posts/chatgpt-dnd/</link>
       <pubDate>Thu, 27 Apr 2023 07:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/chatgpt-dnd/</guid>
+      <guid>https://neurolog.dev/posts/chatgpt-dnd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>New Mastodon - Qoto.org</title>
-      <link>http://localhost:1313/posts/new-mastodon-qoto/</link>
+      <link>https://neurolog.dev/posts/new-mastodon-qoto/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/new-mastodon-qoto/</guid>
+      <guid>https://neurolog.dev/posts/new-mastodon-qoto/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Computer Literacy</title>
-      <link>http://localhost:1313/posts/computer-literacy/</link>
+      <link>https://neurolog.dev/posts/computer-literacy/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/computer-literacy/</guid>
+      <guid>https://neurolog.dev/posts/computer-literacy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mastodon</title>
-      <link>http://localhost:1313/posts/mastodon/</link>
+      <link>https://neurolog.dev/posts/mastodon/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/mastodon/</guid>
+      <guid>https://neurolog.dev/posts/mastodon/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Warp.dev</title>
-      <link>http://localhost:1313/posts/warp-dev/</link>
+      <link>https://neurolog.dev/posts/warp-dev/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/warp-dev/</guid>
+      <guid>https://neurolog.dev/posts/warp-dev/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Added Comments</title>
-      <link>http://localhost:1313/posts/added-comments/</link>
+      <link>https://neurolog.dev/posts/added-comments/</link>
       <pubDate>Sat, 20 Aug 2022 09:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/added-comments/</guid>
+      <guid>https://neurolog.dev/posts/added-comments/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Skyrim and Emacs</title>
-      <link>http://localhost:1313/posts/skyrim-and-emacs/</link>
+      <link>https://neurolog.dev/posts/skyrim-and-emacs/</link>
       <pubDate>Sat, 16 Jul 2022 10:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/skyrim-and-emacs/</guid>
+      <guid>https://neurolog.dev/posts/skyrim-and-emacs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>xbar</title>
-      <link>http://localhost:1313/posts/xbar/</link>
+      <link>https://neurolog.dev/posts/xbar/</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/xbar/</guid>
+      <guid>https://neurolog.dev/posts/xbar/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Getting Up</title>
-      <link>http://localhost:1313/posts/getting-up/</link>
+      <link>https://neurolog.dev/posts/getting-up/</link>
       <pubDate>Sat, 09 Jul 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/getting-up/</guid>
+      <guid>https://neurolog.dev/posts/getting-up/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dracula Theme</title>
-      <link>http://localhost:1313/posts/dracula-theme/</link>
+      <link>https://neurolog.dev/posts/dracula-theme/</link>
       <pubDate>Tue, 05 Jul 2022 16:20:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/dracula-theme/</guid>
+      <guid>https://neurolog.dev/posts/dracula-theme/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Apple Reminders vs. Org Agenda</title>
-      <link>http://localhost:1313/posts/reminders-vs-org-agenda/</link>
+      <link>https://neurolog.dev/posts/reminders-vs-org-agenda/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/reminders-vs-org-agenda/</guid>
+      <guid>https://neurolog.dev/posts/reminders-vs-org-agenda/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Added About Page</title>
-      <link>http://localhost:1313/posts/added-about-page/</link>
+      <link>https://neurolog.dev/posts/added-about-page/</link>
       <pubDate>Sun, 03 Jul 2022 21:32:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/added-about-page/</guid>
+      <guid>https://neurolog.dev/posts/added-about-page/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Facebook Posts</title>
+      <link>https://neurolog.dev/posts/facebook-posts/</link>
+      <pubDate>Sat, 02 Jul 2022 23:30:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/posts/facebook-posts/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hugo and Emacs</title>
-      <link>http://localhost:1313/posts/hugo-and-emacs/</link>
+      <link>https://neurolog.dev/posts/hugo-and-emacs/</link>
       <pubDate>Sat, 02 Jul 2022 23:30:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/hugo-and-emacs/</guid>
+      <guid>https://neurolog.dev/posts/hugo-and-emacs/</guid>
       <description></description>
       
     </item>

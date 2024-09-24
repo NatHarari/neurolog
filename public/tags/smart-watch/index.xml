@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Smart Watch on neuro[log]</title>
-    <link>http://localhost:1313/tags/smart-watch/</link>
+    <link>https://neurolog.dev/tags/smart-watch/</link>
     <description>Recent content in Smart Watch on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Sat, 09 Jul 2022 00:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/smart-watch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jul 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/smart-watch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Up</title>
-      <link>http://localhost:1313/posts/getting-up/</link>
+      <link>https://neurolog.dev/posts/getting-up/</link>
       <pubDate>Sat, 09 Jul 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/getting-up/</guid>
+      <guid>https://neurolog.dev/posts/getting-up/</guid>
       <description></description>
       
     </item>

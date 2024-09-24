@@ -2,78 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on neuro[log]</title>
-    <link>http://localhost:1313/tags/tech/</link>
+    <link>https://neurolog.dev/tags/tech/</link>
     <description>Recent content in Tech on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Mon, 11 Mar 2024 23:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2024 23:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thirty Years</title>
-      <link>http://localhost:1313/posts/thirty-years/</link>
+      <link>https://neurolog.dev/posts/thirty-years/</link>
       <pubDate>Mon, 11 Mar 2024 23:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/thirty-years/</guid>
+      <guid>https://neurolog.dev/posts/thirty-years/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>New Theme</title>
-      <link>http://localhost:1313/posts/new-theme/</link>
+      <link>https://neurolog.dev/posts/new-theme/</link>
       <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/new-theme/</guid>
+      <guid>https://neurolog.dev/posts/new-theme/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Org-Mode does it all</title>
-      <link>http://localhost:1313/posts/org-does-it-all/</link>
+      <link>https://neurolog.dev/posts/org-does-it-all/</link>
       <pubDate>Tue, 27 Feb 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/org-does-it-all/</guid>
+      <guid>https://neurolog.dev/posts/org-does-it-all/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Social Media Annoyances</title>
-      <link>http://localhost:1313/posts/social-media-annoyances/</link>
+      <link>https://neurolog.dev/posts/social-media-annoyances/</link>
       <pubDate>Tue, 20 Feb 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/social-media-annoyances/</guid>
+      <guid>https://neurolog.dev/posts/social-media-annoyances/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Old People and Phones</title>
-      <link>http://localhost:1313/posts/old-people-calls/</link>
+      <link>https://neurolog.dev/posts/old-people-calls/</link>
       <pubDate>Mon, 22 Jan 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/old-people-calls/</guid>
+      <guid>https://neurolog.dev/posts/old-people-calls/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>New Mastodon - Qoto.org</title>
-      <link>http://localhost:1313/posts/new-mastodon-qoto/</link>
+      <link>https://neurolog.dev/posts/new-mastodon-qoto/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/new-mastodon-qoto/</guid>
+      <guid>https://neurolog.dev/posts/new-mastodon-qoto/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Computer Literacy</title>
-      <link>http://localhost:1313/posts/computer-literacy/</link>
+      <link>https://neurolog.dev/posts/computer-literacy/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/computer-literacy/</guid>
+      <guid>https://neurolog.dev/posts/computer-literacy/</guid>
       <description></description>
       
     </item>

@@ -2,338 +2,378 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on neuro[log]</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://neurolog.dev/tags/</link>
     <description>Recent content in Tags on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Thu, 04 Jul 2024 09:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Sep 2024 09:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Politics</title>
-      <link>http://localhost:1313/tags/politics/</link>
-      <pubDate>Thu, 04 Jul 2024 09:00:00 +0200</pubDate>
+      <title>Misc</title>
+      <link>https://neurolog.dev/tags/misc/</link>
+      <pubDate>Tue, 24 Sep 2024 09:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/politics/</guid>
+      <guid>https://neurolog.dev/tags/misc/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Misc</title>
-      <link>http://localhost:1313/tags/misc/</link>
-      <pubDate>Tue, 12 Mar 2024 09:00:00 +0200</pubDate>
+      <title>Rant</title>
+      <link>https://neurolog.dev/tags/rant/</link>
+      <pubDate>Tue, 24 Sep 2024 09:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/misc/</guid>
+      <guid>https://neurolog.dev/tags/rant/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>https://neurolog.dev/tags/politics/</link>
+      <pubDate>Thu, 04 Jul 2024 09:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/tags/politics/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Writing</title>
-      <link>http://localhost:1313/tags/writing/</link>
+      <link>https://neurolog.dev/tags/writing/</link>
       <pubDate>Tue, 12 Mar 2024 09:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/writing/</guid>
+      <guid>https://neurolog.dev/tags/writing/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Memories</title>
-      <link>http://localhost:1313/tags/memories/</link>
+      <link>https://neurolog.dev/tags/memories/</link>
       <pubDate>Mon, 11 Mar 2024 23:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/memories/</guid>
+      <guid>https://neurolog.dev/tags/memories/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tech</title>
-      <link>http://localhost:1313/tags/tech/</link>
+      <link>https://neurolog.dev/tags/tech/</link>
       <pubDate>Mon, 11 Mar 2024 23:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/tech/</guid>
+      <guid>https://neurolog.dev/tags/tech/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/tags/about/</link>
+      <link>https://neurolog.dev/tags/about/</link>
       <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/about/</guid>
+      <guid>https://neurolog.dev/tags/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
+      <link>https://neurolog.dev/tags/hugo/</link>
       <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <guid>https://neurolog.dev/tags/hugo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Info</title>
-      <link>http://localhost:1313/tags/info/</link>
+      <link>https://neurolog.dev/tags/info/</link>
       <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/info/</guid>
+      <guid>https://neurolog.dev/tags/info/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Now</title>
-      <link>http://localhost:1313/tags/now/</link>
+      <link>https://neurolog.dev/tags/now/</link>
       <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/now/</guid>
+      <guid>https://neurolog.dev/tags/now/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Emacs</title>
-      <link>http://localhost:1313/tags/emacs/</link>
+      <link>https://neurolog.dev/tags/emacs/</link>
       <pubDate>Tue, 27 Feb 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/emacs/</guid>
+      <guid>https://neurolog.dev/tags/emacs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>2024</title>
-      <link>http://localhost:1313/tags/2024/</link>
+      <link>https://neurolog.dev/tags/2024/</link>
       <pubDate>Fri, 19 Jan 2024 06:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/2024/</guid>
+      <guid>https://neurolog.dev/tags/2024/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>History</title>
-      <link>http://localhost:1313/tags/history/</link>
+      <link>https://neurolog.dev/tags/history/</link>
       <pubDate>Sun, 29 Oct 2023 05:34:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/history/</guid>
+      <guid>https://neurolog.dev/tags/history/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Opinion</title>
-      <link>http://localhost:1313/tags/opinion/</link>
+      <link>https://neurolog.dev/tags/opinion/</link>
       <pubDate>Sun, 29 Oct 2023 05:34:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/opinion/</guid>
+      <guid>https://neurolog.dev/tags/opinion/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Chatgpt</title>
-      <link>http://localhost:1313/tags/chatgpt/</link>
+      <link>https://neurolog.dev/tags/chatgpt/</link>
       <pubDate>Thu, 27 Apr 2023 07:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/chatgpt/</guid>
+      <guid>https://neurolog.dev/tags/chatgpt/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dnd</title>
-      <link>http://localhost:1313/tags/dnd/</link>
+      <link>https://neurolog.dev/tags/dnd/</link>
       <pubDate>Thu, 27 Apr 2023 07:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/dnd/</guid>
+      <guid>https://neurolog.dev/tags/dnd/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Computers</title>
-      <link>http://localhost:1313/tags/computers/</link>
+      <link>https://neurolog.dev/tags/computers/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/computers/</guid>
+      <guid>https://neurolog.dev/tags/computers/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Social</title>
-      <link>http://localhost:1313/tags/social/</link>
+      <link>https://neurolog.dev/tags/social/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/social/</guid>
+      <guid>https://neurolog.dev/tags/social/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>App</title>
-      <link>http://localhost:1313/tags/app/</link>
+      <link>https://neurolog.dev/tags/app/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/app/</guid>
+      <guid>https://neurolog.dev/tags/app/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Humour</title>
-      <link>http://localhost:1313/tags/humour/</link>
+      <link>https://neurolog.dev/tags/humour/</link>
       <pubDate>Fri, 23 Sep 2022 07:40:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/humour/</guid>
+      <guid>https://neurolog.dev/tags/humour/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Games</title>
-      <link>http://localhost:1313/tags/games/</link>
+      <link>https://neurolog.dev/tags/games/</link>
       <pubDate>Sat, 17 Sep 2022 09:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/games/</guid>
+      <guid>https://neurolog.dev/tags/games/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Picture</title>
-      <link>http://localhost:1313/tags/picture/</link>
+      <link>https://neurolog.dev/tags/picture/</link>
       <pubDate>Sun, 21 Aug 2022 09:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/picture/</guid>
+      <guid>https://neurolog.dev/tags/picture/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Whisky</title>
-      <link>http://localhost:1313/tags/whisky/</link>
+      <link>https://neurolog.dev/tags/whisky/</link>
       <pubDate>Sun, 21 Aug 2022 09:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/whisky/</guid>
+      <guid>https://neurolog.dev/tags/whisky/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Conspiracy</title>
-      <link>http://localhost:1313/tags/conspiracy/</link>
+      <link>https://neurolog.dev/tags/conspiracy/</link>
       <pubDate>Sat, 13 Aug 2022 09:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/conspiracy/</guid>
+      <guid>https://neurolog.dev/tags/conspiracy/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Law</title>
-      <link>http://localhost:1313/tags/law/</link>
+      <link>https://neurolog.dev/tags/law/</link>
       <pubDate>Fri, 12 Aug 2022 09:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/law/</guid>
+      <guid>https://neurolog.dev/tags/law/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mac</title>
-      <link>http://localhost:1313/tags/mac/</link>
+      <link>https://neurolog.dev/tags/mac/</link>
       <pubDate>Sat, 16 Jul 2022 10:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/mac/</guid>
+      <guid>https://neurolog.dev/tags/mac/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Skyrim</title>
-      <link>http://localhost:1313/tags/skyrim/</link>
+      <link>https://neurolog.dev/tags/skyrim/</link>
       <pubDate>Sat, 16 Jul 2022 10:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/skyrim/</guid>
+      <guid>https://neurolog.dev/tags/skyrim/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>America</title>
+      <link>https://neurolog.dev/tags/america/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/tags/america/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Oped</title>
+      <link>https://neurolog.dev/tags/oped/</link>
+      <pubDate>Wed, 13 Jul 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/tags/oped/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Health</title>
-      <link>http://localhost:1313/tags/health/</link>
+      <link>https://neurolog.dev/tags/health/</link>
       <pubDate>Sat, 09 Jul 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/health/</guid>
+      <guid>https://neurolog.dev/tags/health/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Smart Watch</title>
-      <link>http://localhost:1313/tags/smart-watch/</link>
+      <link>https://neurolog.dev/tags/smart-watch/</link>
       <pubDate>Sat, 09 Jul 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/smart-watch/</guid>
+      <guid>https://neurolog.dev/tags/smart-watch/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Apple</title>
-      <link>http://localhost:1313/tags/apple/</link>
+      <link>https://neurolog.dev/tags/apple/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/apple/</guid>
+      <guid>https://neurolog.dev/tags/apple/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Org-Mode</title>
-      <link>http://localhost:1313/tags/org-mode/</link>
+      <link>https://neurolog.dev/tags/org-mode/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/org-mode/</guid>
+      <guid>https://neurolog.dev/tags/org-mode/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Facebook</title>
-      <link>http://localhost:1313/tags/facebook/</link>
+      <link>https://neurolog.dev/tags/facebook/</link>
       <pubDate>Sun, 03 Jul 2022 21:32:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/facebook/</guid>
+      <guid>https://neurolog.dev/tags/facebook/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Site</title>
-      <link>http://localhost:1313/tags/site/</link>
+      <link>https://neurolog.dev/tags/site/</link>
       <pubDate>Sun, 03 Jul 2022 21:32:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/site/</guid>
+      <guid>https://neurolog.dev/tags/site/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rss</title>
+      <link>https://neurolog.dev/tags/rss/</link>
+      <pubDate>Sat, 02 Jul 2022 23:30:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/tags/rss/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/tags/test/</link>
+      <link>https://neurolog.dev/tags/test/</link>
       <pubDate>Sat, 02 Jul 2022 16:30:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/test/</guid>
+      <guid>https://neurolog.dev/tags/test/</guid>
       <description></description>
       
     </item>

@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Humour on neuro[log]</title>
-    <link>http://localhost:1313/tags/humour/</link>
+    <link>https://neurolog.dev/tags/humour/</link>
     <description>Recent content in Humour on neuro[log]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Fri, 23 Sep 2022 07:40:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/humour/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Sep 2022 07:40:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/humour/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What were the 70s...</title>
-      <link>http://localhost:1313/posts/what-were-the-70s-like/</link>
+      <link>https://neurolog.dev/posts/what-were-the-70s-like/</link>
       <pubDate>Fri, 23 Sep 2022 07:40:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/what-were-the-70s-like/</guid>
+      <guid>https://neurolog.dev/posts/what-were-the-70s-like/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ahhh...Lunch</title>
-      <link>http://localhost:1313/posts/ahhh-lunch/</link>
+      <link>https://neurolog.dev/posts/ahhh-lunch/</link>
       <pubDate>Sun, 21 Aug 2022 09:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/ahhh-lunch/</guid>
+      <guid>https://neurolog.dev/posts/ahhh-lunch/</guid>
       <description></description>
       
     </item>

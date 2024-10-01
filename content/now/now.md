@@ -16,19 +16,19 @@ categories: ["pages"]
 - Finding a job ASAP.
 
 ### What I'm listening to {#what-i-m-listening-to}
-- The Marriage of Figaro by Mozart
+- The war in Lebanon on BBC, i24, and other places.
 
 ### What I'm reading {#what-i-m-reading}
 - Job postings.
 
 ### What I'm watching {#what-i-m-watching}
-- War of the Worlds, Season 03
+- The Sandman. (Re-watching)
 
 ### What I'm making {#what-i-m-making}
-- Hay.
+- Nothing.
 
 ### What I'm enjoying {#what-i-m-enjoying}
-- The music I'm listening to.
+- Getting over the flu I've had.
 
 
-#### Last Updated: 2024-09-02 {#last-updated-2024-09-02}
+#### Last Updated: 2024-10-01 {#last-updated-2024-10-01}

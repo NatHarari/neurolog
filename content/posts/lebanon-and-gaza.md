@@ -11,7 +11,7 @@ tags: ["politics","war"]
 categories: ["politics","war"]
 ---
 
-![](!!)![Israeli Tanks on Lebanese Border](img/IsraeliTanksLebanonBorder.jpg)
+![](!!)![Israeli Tanks on Lebanese Border - CNN/Baz Ratner/AP](/img/IsraeliTanksLebanonBorder.jpg)
 
 # There isn't a solution right now
 

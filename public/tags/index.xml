@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Tue, 24 Sep 2024 09:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Oct 2024 09:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Politics</title>
+      <link>https://neurolog.dev/tags/politics/</link>
+      <pubDate>Tue, 01 Oct 2024 09:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/tags/politics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>War</title>
+      <link>https://neurolog.dev/tags/war/</link>
+      <pubDate>Tue, 01 Oct 2024 09:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/tags/war/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Misc</title>
       <link>https://neurolog.dev/tags/misc/</link>
@@ -24,16 +44,6 @@
       <pubDate>Tue, 24 Sep 2024 09:00:00 +0200</pubDate>
       
       <guid>https://neurolog.dev/tags/rant/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Politics</title>
-      <link>https://neurolog.dev/tags/politics/</link>
-      <pubDate>Thu, 04 Jul 2024 09:00:00 +0200</pubDate>
-      
-      <guid>https://neurolog.dev/tags/politics/</guid>
       <description></description>
       
     </item>

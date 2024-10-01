@@ -3,10 +3,10 @@ title: "Lebanon and Gaza"
 date: 2024-10-01T09:00:00+02:00
 draft: false
 author: "Nathaniel Harari"
-cover:
- image: img/IsraeliTanksLebanonBorder.jpg
- alt: 'Israeli Tanks on Lebanese Border'
- caption: 'Israeli tanks on the Lebanese border.  - CNN/Baz Ratner/AP.'
+#cover:
+ #image: img/IsraeliTanksLebanonBorder.jpg
+ #alt: 'Israeli Tanks on Lebanese Border'
+ #caption: 'Israeli tanks on the Lebanese border.  - CNN/Baz Ratner/AP.'
 tags: ["politics","war"]
 categories: ["politics","war"]
 ---

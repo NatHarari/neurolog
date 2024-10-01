@@ -6,10 +6,12 @@ author: "Nathaniel Harari"
 cover:
  image: img/IsraeliTanksLebanonBorder.jpg
  alt: 'Israeli Tanks on Lebanese Border'
- caption: 'Israeli tanks on the Lebanese border. - CNN/Baz Ratner/AP.'
+ caption: 'Israeli tanks on the Lebanese border.  - CNN/Baz Ratner/AP.'
 tags: ["politics","war"]
 categories: ["politics","war"]
 ---
+
+![](!!)![Israeli Tanks on Lebanese Border](img/IsraeliTanksLebanonBorder.jpg)
 
 # There isn't a solution right now
 

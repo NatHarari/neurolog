@@ -3,19 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://neurolog.dev/posts/lebanon-and-gaza/</loc>
-    <lastmod>2024-10-01T09:00:00+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://neurolog.dev/</loc>
-    <lastmod>2024-10-01T09:00:00+02:00</lastmod>
+    <lastmod>2024-10-18T09:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://neurolog.dev/posts/</loc>
+    <lastmod>2024-10-18T09:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neurolog.dev/posts/sinwar/</loc>
+    <lastmod>2024-10-18T09:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neurolog.dev/posts/lebanon-and-gaza/</loc>
     <lastmod>2024-10-01T09:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

@@ -19,6 +19,16 @@
     </item>
     
     <item>
+      <title>Now</title>
+      <link>https://neurolog.dev/now/</link>
+      <pubDate>Fri, 18 Oct 2024 06:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/now/</guid>
+      <description>now</description>
+      
+    </item>
+    
+    <item>
       <title>Lebanon and Gaza</title>
       <link>https://neurolog.dev/posts/lebanon-and-gaza/</link>
       <pubDate>Tue, 01 Oct 2024 09:00:00 +0200</pubDate>
@@ -95,16 +105,6 @@
       
       <guid>https://neurolog.dev/posts/new-theme/</guid>
       <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Now</title>
-      <link>https://neurolog.dev/now/</link>
-      <pubDate>Mon, 11 Mar 2024 06:00:00 +0200</pubDate>
-      
-      <guid>https://neurolog.dev/now/</guid>
-      <description>now</description>
       
     </item>
     

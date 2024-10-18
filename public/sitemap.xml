@@ -21,6 +21,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://neurolog.dev/now/</loc>
+    <lastmod>2024-10-18T06:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neurolog.dev/now/</loc>
+    <lastmod>2024-10-18T06:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://neurolog.dev/posts/lebanon-and-gaza/</loc>
     <lastmod>2024-10-01T09:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
@@ -70,18 +82,6 @@
   </url>
   <url>
     <loc>https://neurolog.dev/posts/new-theme/</loc>
-    <lastmod>2024-03-11T06:00:00+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://neurolog.dev/now/</loc>
-    <lastmod>2024-03-11T06:00:00+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://neurolog.dev/now/</loc>
     <lastmod>2024-03-11T06:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

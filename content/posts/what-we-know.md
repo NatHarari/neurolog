@@ -21,4 +21,4 @@ Since The [Atlantic Article is out on Trump and his thoughts about Hitler](https
 
 3) We now know that American Democracy is not especially immune to what happened in the 1930s in Germany.
 
-If Trump grew a Hitler mustache, walked around with a swastika on his arm, and said his title was now "Der Furher", nearly half of registered voters would still be voting for him. Even if Harris wins, her administration is going to have to take an immediate and active role in dealing with this - unlike what the Biden administration did.
+If Trump grew a Hitler mustache, walked around with a swastika on his arm, and said his title was now "Der Führer", nearly half of registered voters would still be voting for him. Even if Harris wins, her administration is going to have to take an immediate and active role in dealing with this - unlike what the Biden administration did.

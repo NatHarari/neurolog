@@ -4,13 +4,19 @@
 
   <url>
     <loc>https://neurolog.dev/</loc>
-    <lastmod>2024-10-24T09:00:00+02:00</lastmod>
+    <lastmod>2024-11-06T09:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://neurolog.dev/posts/</loc>
-    <lastmod>2024-10-24T09:00:00+02:00</lastmod>
+    <lastmod>2024-11-06T09:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neurolog.dev/posts/the-state-of-the-union-2024/</loc>
+    <lastmod>2024-11-06T09:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

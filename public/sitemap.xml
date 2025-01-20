@@ -3,14 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://neurolog.dev/posts/a-rant-kind-of-day/</loc>
+    <lastmod>2025-01-20T09:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://neurolog.dev/</loc>
-    <lastmod>2024-11-06T09:00:00+02:00</lastmod>
+    <lastmod>2025-01-20T09:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://neurolog.dev/posts/</loc>
-    <lastmod>2024-11-06T09:00:00+02:00</lastmod>
+    <lastmod>2025-01-20T09:00:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

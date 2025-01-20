@@ -18,7 +18,7 @@ I've made it no secret as to my feelings on what I think about Trump, his suppor
 
 The public at large are fucking idiots. That probably includes people you know whom are close to you. It sure does with me. But one thing I've done a long time ago is cut those people off - including family members who support this traitor and this virulent populism and idiotic nationalism. I have no regrets on that score whatsoever. What I do regret is their existence, and I regret that not only for myself, but for the world entire.
 
-But that's not something I can do anything about, and neither can I do anything about what is going to happen in the next few years. I've leave the Cassandra-like predictions for another time, though I will say that for the last few years, I feel like Claudius witnessing the decline of the empire in his old age. 
+But that's not something I can do anything about, and neither can I do anything about what is going to happen in the next few years. I've leave the Cassandra-like predictions for another time, though I will say that for the last few years, I feel like Claudius witnessing the decline of the republic in his old age. 
 
 "Let all the poisons that lurk in the mud hatch out."
 

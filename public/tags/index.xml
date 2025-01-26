@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Mon, 20 Jan 2025 09:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jan 2025 09:00:00 +0200</lastBuildDate><atom:link href="https://neurolog.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Politics</title>
+      <link>https://neurolog.dev/tags/politics/</link>
+      <pubDate>Sun, 26 Jan 2025 09:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/tags/politics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://neurolog.dev/tags/tech/</link>
+      <pubDate>Sun, 26 Jan 2025 09:00:00 +0200</pubDate>
+      
+      <guid>https://neurolog.dev/tags/tech/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Law</title>
       <link>https://neurolog.dev/tags/law/</link>
@@ -29,31 +49,11 @@
     </item>
     
     <item>
-      <title>Politics</title>
-      <link>https://neurolog.dev/tags/politics/</link>
-      <pubDate>Mon, 20 Jan 2025 09:00:00 +0200</pubDate>
-      
-      <guid>https://neurolog.dev/tags/politics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Rant</title>
       <link>https://neurolog.dev/tags/rant/</link>
       <pubDate>Mon, 20 Jan 2025 09:00:00 +0200</pubDate>
       
       <guid>https://neurolog.dev/tags/rant/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://neurolog.dev/tags/tech/</link>
-      <pubDate>Mon, 20 Jan 2025 09:00:00 +0200</pubDate>
-      
-      <guid>https://neurolog.dev/tags/tech/</guid>
       <description></description>
       
     </item>

@@ -5,9 +5,16 @@
   <link>https://yourdomain.com</link>
   <description>Thoughts on neuroscience, technology, politics, and their intersections</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 08 Aug 2025 10:29:50 +0200</lastBuildDate>
+  <lastBuildDate>Fri, 08 Aug 2025 10:38:59 +0200</lastBuildDate>
   <generator>Emacs Org-mode</generator>
   <atom:link href="https://yourdomain.com/rss.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>I switched to pure Org Mode - Goodbye Hugo</title>
+    <link>https://yourdomain.com/i-switched-to-pure-org-mode-goodbye-hugo.html</link>
+    <guid>https://yourdomain.com/i-switched-to-pure-org-mode-goodbye-hugo.html</guid>
+    <pubDate>Fri, 08 Aug 2025 00:00:00 +0200</pubDate>
+    <description>As previous posts have explained, I used to really love Hugo. With Emacs, it was pretty easy to post stuff. It was also pretty easy to just use a template out of the box - a trap which I learned ov...</description>
+  </item>
   <item>
     <title>A Plan for the Democrats</title>
     <link>https://yourdomain.com/a-plan-for-the-democrats.html</link>
@@ -139,13 +146,6 @@
     <link>https://yourdomain.com/there-are-no-kings-in-rome.html</link>
     <guid>https://yourdomain.com/there-are-no-kings-in-rome.html</guid>
     <pubDate>Sun, 29 Oct 2023 00:00:00 +0200</pubDate>
-    <description>:PROPERTIES:</description>
-  </item>
-  <item>
-    <title>ChatGPT Dungeons &amp; Dragons</title>
-    <link>https://yourdomain.com/chatgpt-dnd.html</link>
-    <guid>https://yourdomain.com/chatgpt-dnd.html</guid>
-    <pubDate>Thu, 27 Apr 2023 00:00:00 +0200</pubDate>
     <description>:PROPERTIES:</description>
   </item>
 </channel>

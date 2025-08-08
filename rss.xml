@@ -5,7 +5,7 @@
   <link>https://neurolog.dev</link>
   <description>Thoughts on neuroscience, technology, politics, and their intersections</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 08 Aug 2025 16:08:13 +0200</lastBuildDate>
+  <lastBuildDate>Fri, 08 Aug 2025 17:40:11 +0200</lastBuildDate>
   <generator>Emacs Org-mode</generator>
   <atom:link href="https://neurolog.dev/rss.xml" rel="self" type="application/rss+xml" />
   <item>
@@ -14,6 +14,13 @@
     <guid>https://neurolog.dev/i-switched-to-pure-org-mode-goodbye-hugo.html</guid>
     <pubDate>Fri, 08 Aug 2025 00:00:00 +0200</pubDate>
     <description>As previous posts have explained, I used to really love Hugo. With Emacs, it was pretty easy to post stuff. It was also pretty easy to just use a template out of the box - a trap which I learned ov...</description>
+  </item>
+  <item>
+    <title>The Maga Twitter Insanity</title>
+    <link>https://neurolog.dev/the-maga-twitter-insanity.html</link>
+    <guid>https://neurolog.dev/the-maga-twitter-insanity.html</guid>
+    <pubDate>Fri, 08 Aug 2025 00:00:00 +0200</pubDate>
+    <description>I was watching /The Bulwark/ yesterday and this video came up: [[https://www.youtube.com/watch?v=2wyhwB8VFTc][Inside MAGA’s Wildest Feud (Highly NSFW!)]]. They&amp;apos;re discussing the complete meltdown o...</description>
   </item>
   <item>
     <title>A Plan for the Democrats</title>
@@ -139,13 +146,6 @@
     <link>https://neurolog.dev/happy-2024-and-more.html</link>
     <guid>https://neurolog.dev/happy-2024-and-more.html</guid>
     <pubDate>Fri, 19 Jan 2024 00:00:00 +0100</pubDate>
-    <description>:PROPERTIES:</description>
-  </item>
-  <item>
-    <title>There Are No Kings in Rome</title>
-    <link>https://neurolog.dev/there-are-no-kings-in-rome.html</link>
-    <guid>https://neurolog.dev/there-are-no-kings-in-rome.html</guid>
-    <pubDate>Sun, 29 Oct 2023 00:00:00 +0200</pubDate>
     <description>:PROPERTIES:</description>
   </item>
 </channel>
